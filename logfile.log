@@ -1,0 +1,1833 @@
+2022-07-11 12:44:11,034 :: INFO :: db_con :: database connected successfully
+2022-07-11 12:44:16,239 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wlen/
+2022-07-11 12:44:16,439 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:44:16,439 :: INFO :: __main__ :: executed in 5.401980400085449
+2022-07-11 12:44:33,340 :: INFO :: db_con :: database connected successfully
+2022-07-11 12:44:39,180 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/milicz/
+2022-07-11 12:44:39,403 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:44:39,403 :: INFO :: __main__ :: executed in 6.0604283809661865
+2022-07-11 12:44:44,555 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olesnica/
+2022-07-11 12:44:44,817 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:44:44,817 :: INFO :: __main__ :: executed in 5.4132184982299805
+2022-07-11 12:44:49,774 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bierutow/
+2022-07-11 12:44:50,115 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:44:50,115 :: INFO :: __main__ :: executed in 5.298194169998169
+2022-07-11 12:44:54,835 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miedzyborz/
+2022-07-11 12:44:55,032 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:44:55,032 :: INFO :: __main__ :: executed in 4.916972398757935
+2022-07-11 12:45:00,080 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sycow/
+2022-07-11 12:45:00,513 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:45:00,513 :: INFO :: __main__ :: executed in 5.480729818344116
+2022-07-11 12:45:05,930 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/twardogora/
+2022-07-11 12:45:06,228 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:45:06,228 :: INFO :: __main__ :: executed in 5.7150678634643555
+2022-07-11 12:45:10,689 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olawa/
+2022-07-11 12:45:10,989 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:45:10,989 :: INFO :: __main__ :: executed in 4.761098146438599
+2022-07-11 12:45:15,457 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jelcz-laskowice/
+2022-07-11 12:45:15,691 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:45:15,691 :: INFO :: __main__ :: executed in 4.701844215393066
+2022-07-11 12:46:31,898 :: INFO :: db_con :: database connected successfully
+2022-07-11 12:46:36,439 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chocianow/
+2022-07-11 12:46:36,657 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:46:36,657 :: INFO :: __main__ :: executed in 4.756223440170288
+2022-07-11 12:46:41,200 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/polkowice/
+2022-07-11 12:46:41,507 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:46:41,507 :: INFO :: __main__ :: executed in 4.850001335144043
+2022-07-11 12:46:45,935 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/przemkow/
+2022-07-11 12:46:46,205 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:46:46,205 :: INFO :: __main__ :: executed in 4.69748854637146
+2022-07-11 12:46:51,239 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzelin/
+2022-07-11 12:46:51,519 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:46:51,519 :: INFO :: __main__ :: executed in 5.314387083053589
+2022-07-11 12:46:56,209 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wiazow/
+2022-07-11 12:46:56,406 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:46:56,406 :: INFO :: __main__ :: executed in 4.8872997760772705
+2022-07-11 12:47:01,356 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sroda-slaska/
+2022-07-11 12:47:01,726 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:01,726 :: INFO :: __main__ :: executed in 5.319709300994873
+2022-07-11 12:47:06,055 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swidnica/
+2022-07-11 12:47:06,257 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:06,257 :: INFO :: __main__ :: executed in 4.531069040298462
+2022-07-11 12:47:10,738 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swiebodzice/
+2022-07-11 12:47:10,969 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:10,969 :: INFO :: __main__ :: executed in 4.712099075317383
+2022-07-11 12:47:15,514 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jaworzyna-slaska/
+2022-07-11 12:47:15,936 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:15,936 :: INFO :: __main__ :: executed in 4.9663214683532715
+2022-07-11 12:47:21,679 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzegom/
+2022-07-11 12:47:22,021 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:22,021 :: INFO :: __main__ :: executed in 6.085495471954346
+2022-07-11 12:47:26,768 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zarow/
+2022-07-11 12:47:27,078 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:27,078 :: INFO :: __main__ :: executed in 5.056406021118164
+2022-07-11 12:47:32,049 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/oborniki-slaskie/
+2022-07-11 12:47:32,325 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:32,325 :: INFO :: __main__ :: executed in 5.247492074966431
+2022-07-11 12:47:36,910 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/prusice/
+2022-07-11 12:47:37,139 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:37,139 :: INFO :: __main__ :: executed in 4.8134448528289795
+2022-07-11 12:47:42,240 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/trzebnica/
+2022-07-11 12:47:42,473 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:42,473 :: INFO :: __main__ :: executed in 5.334028005599976
+2022-07-11 12:47:44,396 :: INFO :: db_con :: database connected successfully
+2022-07-11 12:47:49,345 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zmigrod/
+2022-07-11 12:47:49,651 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:49,651 :: INFO :: __main__ :: executed in 5.252516508102417
+2022-07-11 12:47:54,567 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boguszow-gorce/
+2022-07-11 12:47:54,910 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:54,910 :: INFO :: __main__ :: executed in 5.258562088012695
+2022-07-11 12:47:59,575 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jedlina-zdroj/
+2022-07-11 12:47:59,832 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:47:59,832 :: INFO :: __main__ :: executed in 4.92192530632019
+2022-07-11 12:48:05,470 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczawno-zdroj/
+2022-07-11 12:48:05,697 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:05,697 :: INFO :: __main__ :: executed in 5.8653552532196045
+2022-07-11 12:48:10,603 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gluszyca/
+2022-07-11 12:48:10,773 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:10,773 :: INFO :: __main__ :: executed in 5.075467824935913
+2022-07-11 12:48:15,239 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mieroszow/
+2022-07-11 12:48:15,573 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:15,573 :: INFO :: __main__ :: executed in 4.800316572189331
+2022-07-11 12:48:20,441 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzeg-dolny/
+2022-07-11 12:48:20,901 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:20,901 :: INFO :: __main__ :: executed in 5.327783584594727
+2022-07-11 12:48:25,708 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wolow/
+2022-07-11 12:48:26,294 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:26,295 :: INFO :: __main__ :: executed in 5.393719673156738
+2022-07-11 12:48:31,520 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/katy-wroclawskie/
+2022-07-11 12:48:31,738 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:31,738 :: INFO :: __main__ :: executed in 5.443215608596802
+2022-07-11 12:48:37,234 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sobotka/
+2022-07-11 12:48:37,560 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:37,560 :: INFO :: __main__ :: executed in 5.822291612625122
+2022-07-11 12:48:42,297 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/siechnice/
+2022-07-11 12:48:42,535 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:42,535 :: INFO :: __main__ :: executed in 4.9750683307647705
+2022-07-11 12:48:47,009 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bardo/
+2022-07-11 12:48:47,277 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:47,277 :: INFO :: __main__ :: executed in 4.741785764694214
+2022-07-11 12:48:52,423 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zabkowice-slaskie/
+2022-07-11 12:48:53,184 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:53,184 :: INFO :: __main__ :: executed in 5.90727972984314
+2022-07-11 12:48:59,232 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ziebice/
+2022-07-11 12:48:59,436 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:48:59,436 :: INFO :: __main__ :: executed in 6.251590013504028
+2022-07-11 12:49:04,557 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zloty-stok/
+2022-07-11 12:49:04,760 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:04,760 :: INFO :: __main__ :: executed in 5.324312686920166
+2022-07-11 12:49:11,108 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zawidow/
+2022-07-11 12:49:11,353 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:11,354 :: INFO :: __main__ :: executed in 6.592975854873657
+2022-07-11 12:49:16,717 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zgorzelec/
+2022-07-11 12:49:16,913 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:16,913 :: INFO :: __main__ :: executed in 5.559672117233276
+2022-07-11 12:49:22,615 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bogatynia/
+2022-07-11 12:49:22,975 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:22,975 :: INFO :: __main__ :: executed in 6.061755180358887
+2022-07-11 12:49:27,926 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piensk/
+2022-07-11 12:49:28,138 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:28,138 :: INFO :: __main__ :: executed in 5.162826299667358
+2022-07-11 12:49:33,698 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wegliniec/
+2022-07-11 12:49:33,895 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:33,896 :: INFO :: __main__ :: executed in 5.757585763931274
+2022-07-11 12:49:39,051 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wojcieszow/
+2022-07-11 12:49:39,257 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:39,257 :: INFO :: __main__ :: executed in 5.361338138580322
+2022-07-11 12:49:41,856 :: INFO :: db_con :: database connected successfully
+2022-07-11 12:49:46,820 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zlotoryja/
+2022-07-11 12:49:47,157 :: INFO :: sel_source :: found data: [5, 15, 0]
+2022-07-11 12:49:47,171 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:47,171 :: INFO :: __main__ :: executed in 5.312127590179443
+2022-07-11 12:49:52,304 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swierzawa/
+2022-07-11 12:49:52,646 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 12:49:52,660 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 12:49:52,660 :: INFO :: __main__ :: executed in 5.488498210906982
+2022-07-11 14:21:48,526 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:23:20,906 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:28:17,339 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:29:24,831 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:30:08,692 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:30:13,511 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jelenia-gora/
+2022-07-11 14:30:13,809 :: INFO :: sel_source :: found data: [48, 134, 1]
+2022-07-11 14:30:13,825 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:30:13,825 :: INFO :: __main__ :: executed in 5.130041837692261
+2022-07-11 14:33:42,368 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:34:15,872 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:34:22,548 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/legnica/
+2022-07-11 14:34:22,792 :: INFO :: sel_source :: found data: [76, 214, 2]
+2022-07-11 14:34:22,805 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:22,805 :: INFO :: __main__ :: executed in 6.930591583251953
+2022-07-11 14:34:29,274 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wroclaw/
+2022-07-11 14:34:29,708 :: INFO :: sel_source :: found data: [1223, 1987, 9]
+2022-07-11 14:34:29,718 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:29,719 :: INFO :: __main__ :: executed in 6.913445711135864
+2022-07-11 14:34:35,152 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/walbrzych/
+2022-07-11 14:34:35,402 :: INFO :: sel_source :: found data: [60, 117, 0]
+2022-07-11 14:34:35,416 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:35,416 :: INFO :: __main__ :: executed in 5.697615385055542
+2022-07-11 14:34:40,996 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/aleksandrow-kujawski/
+2022-07-11 14:34:41,231 :: INFO :: sel_source :: found data: [8, 29, 0]
+2022-07-11 14:34:41,245 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:41,245 :: INFO :: __main__ :: executed in 5.8292741775512695
+2022-07-11 14:34:47,331 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ciechocinek/
+2022-07-11 14:34:47,620 :: INFO :: sel_source :: found data: [14, 21, 0]
+2022-07-11 14:34:47,634 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:47,635 :: INFO :: __main__ :: executed in 6.389007568359375
+2022-07-11 14:34:52,894 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nieszawa/
+2022-07-11 14:34:53,171 :: INFO :: sel_source :: found data: [1, 2, 0]
+2022-07-11 14:34:53,183 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:53,183 :: INFO :: __main__ :: executed in 5.548086404800415
+2022-07-11 14:34:57,807 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brodnica/
+2022-07-11 14:34:58,167 :: INFO :: sel_source :: found data: [53, 61, 0]
+2022-07-11 14:34:58,178 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:34:58,178 :: INFO :: __main__ :: executed in 4.99538779258728
+2022-07-11 14:37:08,143 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:37:24,533 :: INFO :: db_con :: database connected successfully
+2022-07-11 14:37:29,108 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 14:37:29,295 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 14:37:29,314 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:29,314 :: INFO :: __main__ :: executed in 4.77635383605957
+2022-07-11 14:37:34,063 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 14:37:34,271 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 14:37:34,284 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:34,284 :: INFO :: __main__ :: executed in 4.970641374588013
+2022-07-11 14:37:38,988 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bielawa/
+2022-07-11 14:37:39,230 :: INFO :: sel_source :: found data: [8, 39, 1]
+2022-07-11 14:37:39,241 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:39,242 :: INFO :: __main__ :: executed in 4.957184076309204
+2022-07-11 14:37:43,852 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dzierzoniow/
+2022-07-11 14:37:44,137 :: INFO :: sel_source :: found data: [18, 33, 3]
+2022-07-11 14:37:44,148 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:44,149 :: INFO :: __main__ :: executed in 4.9068403244018555
+2022-07-11 14:37:49,378 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pieszyce/
+2022-07-11 14:37:49,715 :: INFO :: sel_source :: found data: [6, 9, 0]
+2022-07-11 14:37:49,746 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:49,746 :: INFO :: __main__ :: executed in 5.597275733947754
+2022-07-11 14:37:54,731 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pilawa-gorna/
+2022-07-11 14:37:54,933 :: INFO :: sel_source :: found data: [3, 7, 0]
+2022-07-11 14:37:54,945 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:37:54,945 :: INFO :: __main__ :: executed in 5.199168682098389
+2022-07-11 14:38:00,419 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/niemcza/
+2022-07-11 14:38:00,730 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 14:38:00,742 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:38:00,742 :: INFO :: __main__ :: executed in 5.796919822692871
+2022-07-11 14:38:05,105 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/glogow/
+2022-07-11 14:38:05,436 :: INFO :: sel_source :: found data: [39, 72, 0]
+2022-07-11 14:38:05,446 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:38:05,446 :: INFO :: __main__ :: executed in 4.704315185546875
+2022-07-11 14:38:10,521 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gora/
+2022-07-11 14:38:10,744 :: INFO :: sel_source :: found data: [0, 12, 0]
+2022-07-11 14:38:10,755 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 14:38:10,756 :: INFO :: __main__ :: executed in 5.309173107147217
+2022-07-11 17:46:22,410 :: INFO :: db_con :: database connected successfully
+2022-07-11 17:46:27,075 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:46:27,258 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:46:27,281 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:46:27,281 :: INFO :: __main__ :: executed in 4.866626501083374
+2022-07-11 17:46:31,562 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:46:31,797 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:46:31,809 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:46:31,809 :: INFO :: __main__ :: executed in 4.528141498565674
+2022-07-11 17:46:36,207 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:46:36,460 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:46:36,471 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:46:36,471 :: INFO :: __main__ :: executed in 4.661775350570679
+2022-07-11 17:46:40,953 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:46:41,208 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:46:41,221 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:46:41,221 :: INFO :: __main__ :: executed in 4.749861001968384
+2022-07-11 17:55:39,455 :: INFO :: db_con :: database connected successfully
+2022-07-11 17:55:43,535 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:55:43,724 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:55:43,738 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:55:43,738 :: INFO :: __main__ :: executed in 4.278153896331787
+2022-07-11 17:55:48,390 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:55:48,651 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:55:48,668 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:55:48,668 :: INFO :: __main__ :: executed in 4.929792404174805
+2022-07-11 17:55:53,084 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:55:53,371 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:55:53,383 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:55:53,383 :: INFO :: __main__ :: executed in 4.715098142623901
+2022-07-11 17:55:57,651 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boleslawiec/
+2022-07-11 17:55:57,831 :: INFO :: sel_source :: found data: [17, 35, 0]
+2022-07-11 17:55:57,843 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:55:57,843 :: INFO :: __main__ :: executed in 4.459983825683594
+2022-07-11 17:56:02,205 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:56:02,452 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:56:02,464 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:02,464 :: INFO :: __main__ :: executed in 4.620594263076782
+2022-07-11 17:56:07,468 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:56:07,712 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:56:07,723 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:07,723 :: INFO :: __main__ :: executed in 5.259683847427368
+2022-07-11 17:56:12,055 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:56:12,359 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:56:12,370 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:12,370 :: INFO :: __main__ :: executed in 4.6465113162994385
+2022-07-11 17:56:16,817 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrodziec/
+2022-07-11 17:56:17,031 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 17:56:17,044 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:17,044 :: INFO :: __main__ :: executed in 4.673651218414307
+2022-07-11 17:56:21,259 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bielawa/
+2022-07-11 17:56:21,493 :: INFO :: sel_source :: found data: [7, 39, 1]
+2022-07-11 17:56:21,504 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:21,504 :: INFO :: __main__ :: executed in 4.460327625274658
+2022-07-11 17:56:25,647 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bielawa/
+2022-07-11 17:56:25,929 :: INFO :: sel_source :: found data: [7, 39, 1]
+2022-07-11 17:56:25,939 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:25,939 :: INFO :: __main__ :: executed in 4.435335397720337
+2022-07-11 17:56:30,215 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dzierzoniow/
+2022-07-11 17:56:30,395 :: INFO :: sel_source :: found data: [18, 36, 3]
+2022-07-11 17:56:30,408 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:30,409 :: INFO :: __main__ :: executed in 4.46918249130249
+2022-07-11 17:56:34,754 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dzierzoniow/
+2022-07-11 17:56:35,045 :: INFO :: sel_source :: found data: [18, 36, 3]
+2022-07-11 17:56:35,060 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:35,060 :: INFO :: __main__ :: executed in 4.651235580444336
+2022-07-11 17:56:39,449 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pieszyce/
+2022-07-11 17:56:39,651 :: INFO :: sel_source :: found data: [6, 9, 0]
+2022-07-11 17:56:39,663 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:39,663 :: INFO :: __main__ :: executed in 4.602870225906372
+2022-07-11 17:56:44,329 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pieszyce/
+2022-07-11 17:56:44,668 :: INFO :: sel_source :: found data: [6, 9, 0]
+2022-07-11 17:56:44,680 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:44,680 :: INFO :: __main__ :: executed in 5.016905307769775
+2022-07-11 17:56:49,536 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pilawa-gorna/
+2022-07-11 17:56:49,781 :: INFO :: sel_source :: found data: [3, 7, 0]
+2022-07-11 17:56:49,792 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:49,792 :: INFO :: __main__ :: executed in 5.112424373626709
+2022-07-11 17:56:54,208 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pilawa-gorna/
+2022-07-11 17:56:54,420 :: INFO :: sel_source :: found data: [3, 7, 0]
+2022-07-11 17:56:54,431 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:54,431 :: INFO :: __main__ :: executed in 4.639153480529785
+2022-07-11 17:56:58,728 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/niemcza/
+2022-07-11 17:56:58,915 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 17:56:58,926 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:56:58,927 :: INFO :: __main__ :: executed in 4.495073318481445
+2022-07-11 17:57:03,461 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/niemcza/
+2022-07-11 17:57:03,783 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 17:57:03,795 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:03,795 :: INFO :: __main__ :: executed in 4.8684022426605225
+2022-07-11 17:57:07,958 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/glogow/
+2022-07-11 17:57:08,260 :: INFO :: sel_source :: found data: [39, 72, 0]
+2022-07-11 17:57:08,271 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:08,271 :: INFO :: __main__ :: executed in 4.476407766342163
+2022-07-11 17:57:12,361 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/glogow/
+2022-07-11 17:57:12,545 :: INFO :: sel_source :: found data: [39, 72, 0]
+2022-07-11 17:57:12,556 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:12,556 :: INFO :: __main__ :: executed in 4.284782409667969
+2022-07-11 17:57:17,082 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gora/
+2022-07-11 17:57:17,336 :: INFO :: sel_source :: found data: [0, 12, 0]
+2022-07-11 17:57:17,347 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:17,347 :: INFO :: __main__ :: executed in 4.791184663772583
+2022-07-11 17:57:21,900 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gora/
+2022-07-11 17:57:22,147 :: INFO :: sel_source :: found data: [0, 12, 0]
+2022-07-11 17:57:22,159 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:22,159 :: INFO :: __main__ :: executed in 4.811290979385376
+2022-07-11 17:57:26,493 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wasosz/
+2022-07-11 17:57:26,669 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:57:26,681 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:26,681 :: INFO :: __main__ :: executed in 4.521914482116699
+2022-07-11 17:57:31,531 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jawor/
+2022-07-11 17:57:31,858 :: INFO :: sel_source :: found data: [9, 16, 0]
+2022-07-11 17:57:31,868 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:31,868 :: INFO :: __main__ :: executed in 5.1868391036987305
+2022-07-11 17:57:36,598 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bolkow/
+2022-07-11 17:57:36,894 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:57:36,909 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:36,909 :: INFO :: __main__ :: executed in 5.041059494018555
+2022-07-11 17:57:41,692 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/karpacz/
+2022-07-11 17:57:42,214 :: INFO :: sel_source :: found data: [7, 15, 0]
+2022-07-11 17:57:42,230 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:42,230 :: INFO :: __main__ :: executed in 5.3209614753723145
+2022-07-11 17:57:46,810 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kowary/
+2022-07-11 17:57:47,011 :: INFO :: sel_source :: found data: [3, 4, 0]
+2022-07-11 17:57:47,024 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:47,024 :: INFO :: __main__ :: executed in 4.794576406478882
+2022-07-11 17:57:51,400 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piechowice/
+2022-07-11 17:57:51,639 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:57:51,650 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:51,650 :: INFO :: __main__ :: executed in 4.625668287277222
+2022-07-11 17:57:55,959 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szklarska-poreba/
+2022-07-11 17:57:56,145 :: INFO :: sel_source :: found data: [10, 52, 0]
+2022-07-11 17:57:56,156 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:57:56,156 :: INFO :: __main__ :: executed in 4.50574254989624
+2022-07-11 17:58:00,773 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kamienna-gora/
+2022-07-11 17:58:01,004 :: INFO :: sel_source :: found data: [1, 17, 2]
+2022-07-11 17:58:01,015 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:01,016 :: INFO :: __main__ :: executed in 4.859540939331055
+2022-07-11 17:58:05,452 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubawka/
+2022-07-11 17:58:05,635 :: INFO :: sel_source :: found data: [1, 2, 1]
+2022-07-11 17:58:05,648 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:05,648 :: INFO :: __main__ :: executed in 4.6328535079956055
+2022-07-11 17:58:10,051 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/duszniki-zdroj/
+2022-07-11 17:58:10,308 :: INFO :: sel_source :: found data: [2, 5, 1]
+2022-07-11 17:58:10,320 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:10,320 :: INFO :: __main__ :: executed in 4.671710252761841
+2022-07-11 17:58:14,398 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/klodzko/
+2022-07-11 17:58:14,644 :: INFO :: sel_source :: found data: [24, 34, 1]
+2022-07-11 17:58:14,656 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:14,656 :: INFO :: __main__ :: executed in 4.335787773132324
+2022-07-11 17:58:19,140 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kudowa-zdroj/
+2022-07-11 17:58:19,337 :: INFO :: sel_source :: found data: [2, 10, 1]
+2022-07-11 17:58:19,351 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:19,351 :: INFO :: __main__ :: executed in 4.69486141204834
+2022-07-11 17:58:23,763 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowa-ruda/
+2022-07-11 17:58:24,004 :: INFO :: sel_source :: found data: [10, 11, 0]
+2022-07-11 17:58:24,020 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:24,020 :: INFO :: __main__ :: executed in 4.669073820114136
+2022-07-11 17:58:28,357 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/polanica-zdroj/
+2022-07-11 17:58:28,552 :: INFO :: sel_source :: found data: [7, 4, 0]
+2022-07-11 17:58:28,563 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:28,563 :: INFO :: __main__ :: executed in 4.5428876876831055
+2022-07-11 17:58:33,151 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bystrzyca-klodzka/
+2022-07-11 17:58:33,411 :: INFO :: sel_source :: found data: [3, 7, 0]
+2022-07-11 17:58:33,422 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:33,422 :: INFO :: __main__ :: executed in 4.859344720840454
+2022-07-11 17:58:37,873 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ladek-zdroj/
+2022-07-11 17:58:38,068 :: INFO :: sel_source :: found data: [3, 5, 0]
+2022-07-11 17:58:38,078 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:38,078 :: INFO :: __main__ :: executed in 4.656079292297363
+2022-07-11 17:58:42,326 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miedzylesie/
+2022-07-11 17:58:42,504 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:58:42,517 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:42,517 :: INFO :: __main__ :: executed in 4.438882827758789
+2022-07-11 17:58:46,964 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radkow/
+2022-07-11 17:58:47,144 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:58:47,157 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:47,157 :: INFO :: __main__ :: executed in 4.639672040939331
+2022-07-11 17:58:51,301 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/stronie-slaskie/
+2022-07-11 17:58:51,569 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 17:58:51,581 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:51,581 :: INFO :: __main__ :: executed in 4.423591375350952
+2022-07-11 17:58:56,163 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczytna/
+2022-07-11 17:58:56,341 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:58:56,352 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:58:56,352 :: INFO :: __main__ :: executed in 4.771011590957642
+2022-07-11 17:59:00,817 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chojnow/
+2022-07-11 17:59:01,152 :: INFO :: sel_source :: found data: [8, 14, 0]
+2022-07-11 17:59:01,163 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:01,164 :: INFO :: __main__ :: executed in 4.81167197227478
+2022-07-11 17:59:05,609 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/prochowice/
+2022-07-11 17:59:05,848 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 17:59:05,863 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:05,863 :: INFO :: __main__ :: executed in 4.699567079544067
+2022-07-11 17:59:10,141 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/luban/
+2022-07-11 17:59:10,319 :: INFO :: sel_source :: found data: [21, 22, 0]
+2022-07-11 17:59:10,331 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:10,331 :: INFO :: __main__ :: executed in 4.467729091644287
+2022-07-11 17:59:15,004 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swieradow-zdroj/
+2022-07-11 17:59:15,242 :: INFO :: sel_source :: found data: [5, 14, 0]
+2022-07-11 17:59:15,250 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:15,250 :: INFO :: __main__ :: executed in 4.918752193450928
+2022-07-11 17:59:19,534 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lesna/
+2022-07-11 17:59:19,782 :: INFO :: sel_source :: found data: [1, 2, 0]
+2022-07-11 17:59:19,796 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:19,796 :: INFO :: __main__ :: executed in 4.545932769775391
+2022-07-11 17:59:24,439 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olszyna/
+2022-07-11 17:59:24,619 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:59:24,630 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:24,630 :: INFO :: __main__ :: executed in 4.834573745727539
+2022-07-11 17:59:28,857 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubin/
+2022-07-11 17:59:29,042 :: INFO :: sel_source :: found data: [59, 144, 2]
+2022-07-11 17:59:29,053 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:29,054 :: INFO :: __main__ :: executed in 4.42322301864624
+2022-07-11 17:59:33,973 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/scinawa/
+2022-07-11 17:59:34,160 :: INFO :: sel_source :: found data: [1, 4, 0]
+2022-07-11 17:59:34,173 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:34,173 :: INFO :: __main__ :: executed in 5.119843006134033
+2022-07-11 17:59:38,895 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gryfow-slaski/
+2022-07-11 17:59:39,144 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 17:59:39,156 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:39,156 :: INFO :: __main__ :: executed in 4.982334136962891
+2022-07-11 17:59:43,577 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubomierz/
+2022-07-11 17:59:43,813 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 17:59:43,829 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:43,829 :: INFO :: __main__ :: executed in 4.673433065414429
+2022-07-11 17:59:48,351 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lwowek-slaski/
+2022-07-11 17:59:48,662 :: INFO :: sel_source :: found data: [1, 13, 0]
+2022-07-11 17:59:48,673 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:48,673 :: INFO :: __main__ :: executed in 4.8438615798950195
+2022-07-11 17:59:53,282 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mirsk/
+2022-07-11 17:59:53,528 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 17:59:53,539 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:53,539 :: INFO :: __main__ :: executed in 4.865419864654541
+2022-07-11 17:59:57,796 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wlen/
+2022-07-11 17:59:57,982 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 17:59:57,993 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 17:59:57,993 :: INFO :: __main__ :: executed in 4.453939437866211
+2022-07-11 18:00:03,196 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/milicz/
+2022-07-11 18:00:03,419 :: INFO :: sel_source :: found data: [5, 23, 0]
+2022-07-11 18:00:03,431 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:03,431 :: INFO :: __main__ :: executed in 5.437970161437988
+2022-07-11 18:00:07,877 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olesnica/
+2022-07-11 18:00:08,203 :: INFO :: sel_source :: found data: [14, 72, 0]
+2022-07-11 18:00:08,216 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:08,216 :: INFO :: __main__ :: executed in 4.784861087799072
+2022-07-11 18:00:12,798 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bierutow/
+2022-07-11 18:00:13,044 :: INFO :: sel_source :: found data: [1, 4, 0]
+2022-07-11 18:00:13,060 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:13,060 :: INFO :: __main__ :: executed in 4.8440282344818115
+2022-07-11 18:00:17,700 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miedzyborz/
+2022-07-11 18:00:18,084 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:00:18,097 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:18,097 :: INFO :: __main__ :: executed in 5.037099123001099
+2022-07-11 18:00:23,266 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sycow/
+2022-07-11 18:00:23,644 :: INFO :: sel_source :: found data: [8, 12, 0]
+2022-07-11 18:00:23,654 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:23,654 :: INFO :: __main__ :: executed in 5.557380676269531
+2022-07-11 18:00:28,110 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/twardogora/
+2022-07-11 18:00:28,407 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:00:28,418 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:28,418 :: INFO :: __main__ :: executed in 4.7636730670928955
+2022-07-11 18:00:32,474 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olawa/
+2022-07-11 18:00:32,854 :: INFO :: sel_source :: found data: [19, 73, 0]
+2022-07-11 18:00:32,868 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:32,868 :: INFO :: __main__ :: executed in 4.4498090744018555
+2022-07-11 18:00:37,005 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jelcz-laskowice/
+2022-07-11 18:00:37,331 :: INFO :: sel_source :: found data: [12, 29, 0]
+2022-07-11 18:00:37,342 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:37,342 :: INFO :: __main__ :: executed in 4.474032878875732
+2022-07-11 18:00:41,654 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chocianow/
+2022-07-11 18:00:41,846 :: INFO :: sel_source :: found data: [2, 10, 0]
+2022-07-11 18:00:41,858 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:41,858 :: INFO :: __main__ :: executed in 4.515845775604248
+2022-07-11 18:00:46,568 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/polkowice/
+2022-07-11 18:00:46,845 :: INFO :: sel_source :: found data: [24, 30, 0]
+2022-07-11 18:00:46,856 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:46,856 :: INFO :: __main__ :: executed in 4.99843430519104
+2022-07-11 18:00:51,692 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/przemkow/
+2022-07-11 18:00:51,929 :: INFO :: sel_source :: found data: [2, 4, 0]
+2022-07-11 18:00:51,937 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:51,937 :: INFO :: __main__ :: executed in 5.080742120742798
+2022-07-11 18:00:56,404 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzelin/
+2022-07-11 18:00:56,610 :: INFO :: sel_source :: found data: [4, 15, 0]
+2022-07-11 18:00:56,622 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:00:56,622 :: INFO :: __main__ :: executed in 4.684564590454102
+2022-07-11 18:01:01,069 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wiazow/
+2022-07-11 18:01:01,393 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:01:01,404 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:01,405 :: INFO :: __main__ :: executed in 4.782802581787109
+2022-07-11 18:01:06,856 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sroda-slaska/
+2022-07-11 18:01:07,088 :: INFO :: sel_source :: found data: [10, 18, 0]
+2022-07-11 18:01:07,102 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:07,103 :: INFO :: __main__ :: executed in 5.697923898696899
+2022-07-11 18:01:11,582 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swidnica/
+2022-07-11 18:01:11,764 :: INFO :: sel_source :: found data: [35, 110, 2]
+2022-07-11 18:01:11,775 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:11,775 :: INFO :: __main__ :: executed in 4.672446250915527
+2022-07-11 18:01:16,263 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swiebodzice/
+2022-07-11 18:01:16,442 :: INFO :: sel_source :: found data: [26, 24, 0]
+2022-07-11 18:01:16,453 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:16,453 :: INFO :: __main__ :: executed in 4.67785120010376
+2022-07-11 18:01:21,173 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jaworzyna-slaska/
+2022-07-11 18:01:21,366 :: INFO :: sel_source :: found data: [3, 4, 0]
+2022-07-11 18:01:21,378 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:21,378 :: INFO :: __main__ :: executed in 4.924724817276001
+2022-07-11 18:01:26,314 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzegom/
+2022-07-11 18:01:26,563 :: INFO :: sel_source :: found data: [5, 11, 0]
+2022-07-11 18:01:26,574 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:26,574 :: INFO :: __main__ :: executed in 5.196659803390503
+2022-07-11 18:01:31,067 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zarow/
+2022-07-11 18:01:31,324 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:01:31,341 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:31,341 :: INFO :: __main__ :: executed in 4.766601324081421
+2022-07-11 18:01:36,728 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/oborniki-slaskie/
+2022-07-11 18:01:36,982 :: INFO :: sel_source :: found data: [9, 15, 0]
+2022-07-11 18:01:36,993 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:36,993 :: INFO :: __main__ :: executed in 5.652064561843872
+2022-07-11 18:01:41,356 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/prusice/
+2022-07-11 18:01:41,542 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:01:41,553 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:41,553 :: INFO :: __main__ :: executed in 4.559518575668335
+2022-07-11 18:01:46,394 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/trzebnica/
+2022-07-11 18:01:47,058 :: INFO :: sel_source :: found data: [9, 23, 1]
+2022-07-11 18:01:47,070 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:47,070 :: INFO :: __main__ :: executed in 5.51714825630188
+2022-07-11 18:01:51,539 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zmigrod/
+2022-07-11 18:01:51,737 :: INFO :: sel_source :: found data: [3, 3, 0]
+2022-07-11 18:01:51,748 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:51,748 :: INFO :: __main__ :: executed in 4.6784210205078125
+2022-07-11 18:01:56,431 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/boguszow-gorce/
+2022-07-11 18:01:56,661 :: INFO :: sel_source :: found data: [2, 13, 0]
+2022-07-11 18:01:56,676 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:01:56,676 :: INFO :: __main__ :: executed in 4.927123308181763
+2022-07-11 18:02:01,968 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jedlina-zdroj/
+2022-07-11 18:02:02,277 :: INFO :: sel_source :: found data: [2, 4, 0]
+2022-07-11 18:02:02,289 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:02,289 :: INFO :: __main__ :: executed in 5.612994194030762
+2022-07-11 18:02:06,758 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczawno-zdroj/
+2022-07-11 18:02:07,026 :: INFO :: sel_source :: found data: [4, 14, 0]
+2022-07-11 18:02:07,046 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:07,047 :: INFO :: __main__ :: executed in 4.757802724838257
+2022-07-11 18:02:11,417 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gluszyca/
+2022-07-11 18:02:11,664 :: INFO :: sel_source :: found data: [0, 6, 1]
+2022-07-11 18:02:11,676 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:11,676 :: INFO :: __main__ :: executed in 4.629258394241333
+2022-07-11 18:02:16,524 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mieroszow/
+2022-07-11 18:02:16,714 :: INFO :: sel_source :: found data: [1, 2, 0]
+2022-07-11 18:02:16,725 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:16,726 :: INFO :: __main__ :: executed in 5.049692869186401
+2022-07-11 18:02:21,639 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzeg-dolny/
+2022-07-11 18:02:22,226 :: INFO :: sel_source :: found data: [4, 13, 1]
+2022-07-11 18:02:22,237 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:22,237 :: INFO :: __main__ :: executed in 5.511479139328003
+2022-07-11 18:02:27,195 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wolow/
+2022-07-11 18:02:27,548 :: INFO :: sel_source :: found data: [6, 18, 1]
+2022-07-11 18:02:27,559 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:27,559 :: INFO :: __main__ :: executed in 5.322134017944336
+2022-07-11 18:02:32,363 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/katy-wroclawskie/
+2022-07-11 18:02:32,647 :: INFO :: sel_source :: found data: [6, 8, 0]
+2022-07-11 18:02:32,658 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:32,658 :: INFO :: __main__ :: executed in 5.098925828933716
+2022-07-11 18:02:37,424 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sobotka/
+2022-07-11 18:02:37,632 :: INFO :: sel_source :: found data: [3, 7, 0]
+2022-07-11 18:02:37,646 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:37,646 :: INFO :: __main__ :: executed in 4.987910270690918
+2022-07-11 18:02:41,893 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/siechnice/
+2022-07-11 18:02:42,079 :: INFO :: sel_source :: found data: [3, 45, 0]
+2022-07-11 18:02:42,088 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:42,088 :: INFO :: __main__ :: executed in 4.441485404968262
+2022-07-11 18:02:46,366 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bardo/
+2022-07-11 18:02:46,641 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 18:02:46,653 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:46,653 :: INFO :: __main__ :: executed in 4.565603017807007
+2022-07-11 18:02:51,266 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zabkowice-slaskie/
+2022-07-11 18:02:51,604 :: INFO :: sel_source :: found data: [9, 18, 0]
+2022-07-11 18:02:51,615 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:51,615 :: INFO :: __main__ :: executed in 4.961801767349243
+2022-07-11 18:02:56,142 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ziebice/
+2022-07-11 18:02:56,357 :: INFO :: sel_source :: found data: [3, 3, 1]
+2022-07-11 18:02:56,371 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:02:56,371 :: INFO :: __main__ :: executed in 4.755419969558716
+2022-07-11 18:03:00,760 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zloty-stok/
+2022-07-11 18:03:01,002 :: INFO :: sel_source :: found data: [1, 4, 0]
+2022-07-11 18:03:01,016 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:01,016 :: INFO :: __main__ :: executed in 4.6455466747283936
+2022-07-11 18:03:05,650 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zawidow/
+2022-07-11 18:03:05,836 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 18:03:05,847 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:05,847 :: INFO :: __main__ :: executed in 4.830894470214844
+2022-07-11 18:03:10,019 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zgorzelec/
+2022-07-11 18:03:10,198 :: INFO :: sel_source :: found data: [23, 34, 2]
+2022-07-11 18:03:10,212 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:10,212 :: INFO :: __main__ :: executed in 4.364661455154419
+2022-07-11 18:03:15,181 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bogatynia/
+2022-07-11 18:03:15,434 :: INFO :: sel_source :: found data: [15, 11, 0]
+2022-07-11 18:03:15,445 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:15,445 :: INFO :: __main__ :: executed in 5.233320474624634
+2022-07-11 18:03:19,789 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piensk/
+2022-07-11 18:03:20,079 :: INFO :: sel_source :: found data: [1, 4, 0]
+2022-07-11 18:03:20,092 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:20,093 :: INFO :: __main__ :: executed in 4.647158622741699
+2022-07-11 18:03:24,640 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wegliniec/
+2022-07-11 18:03:24,824 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:03:24,838 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:24,838 :: INFO :: __main__ :: executed in 4.745122671127319
+2022-07-11 18:03:29,380 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wojcieszow/
+2022-07-11 18:03:29,668 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:03:29,679 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:29,679 :: INFO :: __main__ :: executed in 4.8412840366363525
+2022-07-11 18:03:34,373 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zlotoryja/
+2022-07-11 18:03:34,579 :: INFO :: sel_source :: found data: [5, 14, 0]
+2022-07-11 18:03:34,595 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:34,595 :: INFO :: __main__ :: executed in 4.915570259094238
+2022-07-11 18:03:39,021 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swierzawa/
+2022-07-11 18:03:39,288 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 18:03:39,301 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:39,301 :: INFO :: __main__ :: executed in 4.706310987472534
+2022-07-11 18:03:43,681 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jelenia-gora/
+2022-07-11 18:03:43,942 :: INFO :: sel_source :: found data: [46, 137, 1]
+2022-07-11 18:03:43,954 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:43,954 :: INFO :: __main__ :: executed in 4.652740001678467
+2022-07-11 18:03:48,503 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/legnica/
+2022-07-11 18:03:48,739 :: INFO :: sel_source :: found data: [77, 215, 2]
+2022-07-11 18:03:48,753 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:48,753 :: INFO :: __main__ :: executed in 4.799495220184326
+2022-07-11 18:03:53,174 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wroclaw/
+2022-07-11 18:03:53,496 :: INFO :: sel_source :: found data: [1236, 2009, 9]
+2022-07-11 18:03:53,508 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:53,508 :: INFO :: __main__ :: executed in 4.754913568496704
+2022-07-11 18:03:57,761 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/walbrzych/
+2022-07-11 18:03:57,957 :: INFO :: sel_source :: found data: [64, 121, 0]
+2022-07-11 18:03:57,969 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:03:57,969 :: INFO :: __main__ :: executed in 4.460264682769775
+2022-07-11 18:04:03,062 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/aleksandrow-kujawski/
+2022-07-11 18:04:03,326 :: INFO :: sel_source :: found data: [8, 29, 0]
+2022-07-11 18:04:03,340 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:03,340 :: INFO :: __main__ :: executed in 5.371664524078369
+2022-07-11 18:04:07,975 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ciechocinek/
+2022-07-11 18:04:08,645 :: INFO :: sel_source :: found data: [14, 20, 0]
+2022-07-11 18:04:08,655 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:08,655 :: INFO :: __main__ :: executed in 5.314971923828125
+2022-07-11 18:04:13,104 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nieszawa/
+2022-07-11 18:04:13,364 :: INFO :: sel_source :: found data: [1, 2, 0]
+2022-07-11 18:04:13,375 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:13,376 :: INFO :: __main__ :: executed in 4.720104694366455
+2022-07-11 18:04:17,609 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brodnica/
+2022-07-11 18:04:17,844 :: INFO :: sel_source :: found data: [53, 61, 0]
+2022-07-11 18:04:17,855 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:17,855 :: INFO :: __main__ :: executed in 4.479787826538086
+2022-07-11 18:04:22,377 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gorzno/
+2022-07-11 18:04:22,553 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:04:22,566 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:22,566 :: INFO :: __main__ :: executed in 4.7108705043792725
+2022-07-11 18:04:27,075 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jablonowo-pomorskie/
+2022-07-11 18:04:27,258 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:04:27,269 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:27,269 :: INFO :: __main__ :: executed in 4.702705144882202
+2022-07-11 18:04:31,900 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/koronowo/
+2022-07-11 18:04:32,194 :: INFO :: sel_source :: found data: [1, 8, 0]
+2022-07-11 18:04:32,205 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:32,205 :: INFO :: __main__ :: executed in 4.936150789260864
+2022-07-11 18:04:36,904 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/solec-kujawski/
+2022-07-11 18:04:37,450 :: INFO :: sel_source :: found data: [5, 9, 0]
+2022-07-11 18:04:37,461 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:37,462 :: INFO :: __main__ :: executed in 5.256269931793213
+2022-07-11 18:04:42,229 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chelmno/
+2022-07-11 18:04:42,467 :: INFO :: sel_source :: found data: [21, 25, 0]
+2022-07-11 18:04:42,480 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:42,481 :: INFO :: __main__ :: executed in 5.018921136856079
+2022-07-11 18:04:48,118 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/golub-dobrzyn/
+2022-07-11 18:04:48,616 :: INFO :: sel_source :: found data: [12, 9, 0]
+2022-07-11 18:04:48,627 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:48,627 :: INFO :: __main__ :: executed in 6.146637916564941
+2022-07-11 18:04:53,198 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kowalewo-pomorskie/
+2022-07-11 18:04:53,391 :: INFO :: sel_source :: found data: [1, 9, 0]
+2022-07-11 18:04:53,402 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:53,402 :: INFO :: __main__ :: executed in 4.775102138519287
+2022-07-11 18:04:57,948 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lasin/
+2022-07-11 18:04:58,234 :: INFO :: sel_source :: found data: [3, 6, 0]
+2022-07-11 18:04:58,245 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:04:58,245 :: INFO :: __main__ :: executed in 4.843005657196045
+2022-07-11 18:05:03,202 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radzyn-chelminski/
+2022-07-11 18:05:03,731 :: INFO :: sel_source :: found data: [4, 1, 0]
+2022-07-11 18:05:03,746 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:03,746 :: INFO :: __main__ :: executed in 5.50097918510437
+2022-07-11 18:05:08,378 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/inowroclaw/
+2022-07-11 18:05:08,645 :: INFO :: sel_source :: found data: [67, 118, 1]
+2022-07-11 18:05:08,657 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:08,658 :: INFO :: __main__ :: executed in 4.9110682010650635
+2022-07-11 18:05:13,385 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gniewkowo/
+2022-07-11 18:05:13,684 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:05:13,696 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:13,696 :: INFO :: __main__ :: executed in 5.038407564163208
+2022-07-11 18:05:17,996 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/janikowo/
+2022-07-11 18:05:18,310 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:05:18,324 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:18,324 :: INFO :: __main__ :: executed in 4.627759695053101
+2022-07-11 18:05:22,970 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kruszwica/
+2022-07-11 18:05:23,495 :: INFO :: sel_source :: found data: [5, 6, 0]
+2022-07-11 18:05:23,506 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:23,506 :: INFO :: __main__ :: executed in 5.182128190994263
+2022-07-11 18:05:27,902 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pakosc/
+2022-07-11 18:05:28,212 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:05:28,224 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:28,224 :: INFO :: __main__ :: executed in 4.717640399932861
+2022-07-11 18:05:32,918 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lipno/
+2022-07-11 18:05:33,258 :: INFO :: sel_source :: found data: [14, 9, 0]
+2022-07-11 18:05:33,271 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:33,271 :: INFO :: __main__ :: executed in 5.047316551208496
+2022-07-11 18:05:37,650 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dobrzyn-nad-wisla/
+2022-07-11 18:05:37,893 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:05:37,904 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:37,904 :: INFO :: __main__ :: executed in 4.632563829421997
+2022-07-11 18:05:42,629 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/skepe/
+2022-07-11 18:05:42,826 :: INFO :: sel_source :: found data: [5, 2, 0]
+2022-07-11 18:05:42,839 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:42,840 :: INFO :: __main__ :: executed in 4.935635089874268
+2022-07-11 18:05:47,338 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mogilno/
+2022-07-11 18:05:47,607 :: INFO :: sel_source :: found data: [8, 10, 1]
+2022-07-11 18:05:47,623 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:47,623 :: INFO :: __main__ :: executed in 4.7831666469573975
+2022-07-11 18:05:52,782 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzelno/
+2022-07-11 18:05:53,005 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:05:53,016 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:53,016 :: INFO :: __main__ :: executed in 5.393275499343872
+2022-07-11 18:05:57,413 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kcynia/
+2022-07-11 18:05:57,653 :: INFO :: sel_source :: found data: [2, 2, 0]
+2022-07-11 18:05:57,667 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:05:57,667 :: INFO :: __main__ :: executed in 4.650759696960449
+2022-07-11 18:06:02,110 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mrocza/
+2022-07-11 18:06:02,293 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:06:02,304 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:02,304 :: INFO :: __main__ :: executed in 4.636984825134277
+2022-07-11 18:06:06,989 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/naklo-nad-notecia/
+2022-07-11 18:06:07,203 :: INFO :: sel_source :: found data: [14, 13, 0]
+2022-07-11 18:06:07,213 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:07,214 :: INFO :: __main__ :: executed in 4.909573793411255
+2022-07-11 18:06:12,089 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szubin/
+2022-07-11 18:06:12,351 :: INFO :: sel_source :: found data: [12, 12, 0]
+2022-07-11 18:06:12,362 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:12,362 :: INFO :: __main__ :: executed in 5.148425817489624
+2022-07-11 18:06:16,892 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radziejow/
+2022-07-11 18:06:17,114 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 18:06:17,126 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:17,126 :: INFO :: __main__ :: executed in 4.763616561889648
+2022-07-11 18:06:21,415 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piotrkow-kujawski/
+2022-07-11 18:06:21,599 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:06:21,611 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:21,611 :: INFO :: __main__ :: executed in 4.4849207401275635
+2022-07-11 18:06:26,885 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rypin/
+2022-07-11 18:06:27,112 :: INFO :: sel_source :: found data: [16, 20, 0]
+2022-07-11 18:06:27,125 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:27,125 :: INFO :: __main__ :: executed in 5.514083623886108
+2022-07-11 18:06:31,674 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kamien-krajenski/
+2022-07-11 18:06:31,868 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:06:31,883 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:31,883 :: INFO :: __main__ :: executed in 4.757863759994507
+2022-07-11 18:06:36,444 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sepolno-krajenskie/
+2022-07-11 18:06:36,641 :: INFO :: sel_source :: found data: [7, 8, 1]
+2022-07-11 18:06:36,652 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:36,652 :: INFO :: __main__ :: executed in 4.769736289978027
+2022-07-11 18:06:41,110 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wiecbork/
+2022-07-11 18:06:41,373 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:06:41,384 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:41,385 :: INFO :: __main__ :: executed in 4.732050895690918
+2022-07-11 18:06:46,045 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowe/
+2022-07-11 18:06:46,284 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:06:46,295 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:46,295 :: INFO :: __main__ :: executed in 4.910611629486084
+2022-07-11 18:06:50,953 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swiecie/
+2022-07-11 18:06:51,205 :: INFO :: sel_source :: found data: [28, 26, 1]
+2022-07-11 18:06:51,217 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:51,217 :: INFO :: __main__ :: executed in 4.921653509140015
+2022-07-11 18:06:56,047 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chelmza/
+2022-07-11 18:06:56,375 :: INFO :: sel_source :: found data: [1, 14, 0]
+2022-07-11 18:06:56,386 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:06:56,387 :: INFO :: __main__ :: executed in 5.169613361358643
+2022-07-11 18:07:01,006 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tuchola/
+2022-07-11 18:07:01,320 :: INFO :: sel_source :: found data: [2, 12, 0]
+2022-07-11 18:07:01,331 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:01,331 :: INFO :: __main__ :: executed in 4.944748401641846
+2022-07-11 18:07:06,203 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wabrzezno/
+2022-07-11 18:07:06,448 :: INFO :: sel_source :: found data: [13, 17, 0]
+2022-07-11 18:07:06,461 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:06,461 :: INFO :: __main__ :: executed in 5.12959623336792
+2022-07-11 18:07:11,043 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kowal/
+2022-07-11 18:07:11,282 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:07:11,293 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:11,293 :: INFO :: __main__ :: executed in 4.831917762756348
+2022-07-11 18:07:16,122 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzesc-kujawski/
+2022-07-11 18:07:16,372 :: INFO :: sel_source :: found data: [2, 2, 0]
+2022-07-11 18:07:16,386 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:16,386 :: INFO :: __main__ :: executed in 5.093361854553223
+2022-07-11 18:07:20,753 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chodecz/
+2022-07-11 18:07:20,957 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:07:20,969 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:20,970 :: INFO :: __main__ :: executed in 4.5831139087677
+2022-07-11 18:07:25,821 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/izbica-kujawska/
+2022-07-11 18:07:25,998 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:07:26,011 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:26,011 :: INFO :: __main__ :: executed in 5.0413658618927
+2022-07-11 18:07:30,858 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubien-kujawski/
+2022-07-11 18:07:31,184 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:07:31,195 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:31,195 :: INFO :: __main__ :: executed in 5.184224367141724
+2022-07-11 18:07:35,783 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubraniec/
+2022-07-11 18:07:36,060 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:07:36,071 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:36,071 :: INFO :: __main__ :: executed in 4.875671625137329
+2022-07-11 18:07:41,056 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/barcin/
+2022-07-11 18:07:41,370 :: INFO :: sel_source :: found data: [3, 9, 0]
+2022-07-11 18:07:41,400 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:41,400 :: INFO :: __main__ :: executed in 5.329121351242065
+2022-07-11 18:07:46,272 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/janowiec-wielkopolski/
+2022-07-11 18:07:46,467 :: INFO :: sel_source :: found data: [5, 5, 0]
+2022-07-11 18:07:46,478 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:46,478 :: INFO :: __main__ :: executed in 5.077686309814453
+2022-07-11 18:07:51,811 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/labiszyn/
+2022-07-11 18:07:52,094 :: INFO :: sel_source :: found data: [1, 3, 0]
+2022-07-11 18:07:52,105 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:52,105 :: INFO :: __main__ :: executed in 5.627305030822754
+2022-07-11 18:07:56,793 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/znin/
+2022-07-11 18:07:57,044 :: INFO :: sel_source :: found data: [5, 12, 0]
+2022-07-11 18:07:57,055 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:07:57,055 :: INFO :: __main__ :: executed in 4.95017147064209
+2022-07-11 18:08:01,663 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bydgoszcz/
+2022-07-11 18:08:02,021 :: INFO :: sel_source :: found data: [432, 1121, 3]
+2022-07-11 18:08:02,032 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:02,032 :: INFO :: __main__ :: executed in 4.976719379425049
+2022-07-11 18:08:07,177 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/grudziadz/
+2022-07-11 18:08:07,419 :: INFO :: sel_source :: found data: [126, 106, 3]
+2022-07-11 18:08:07,433 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:07,433 :: INFO :: __main__ :: executed in 5.400970935821533
+2022-07-11 18:08:12,445 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/torun/
+2022-07-11 18:08:12,704 :: INFO :: sel_source :: found data: [321, 595, 4]
+2022-07-11 18:08:12,718 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:12,718 :: INFO :: __main__ :: executed in 5.28451681137085
+2022-07-11 18:08:17,809 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wloclawek/
+2022-07-11 18:08:18,003 :: INFO :: sel_source :: found data: [97, 219, 1]
+2022-07-11 18:08:18,014 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:18,014 :: INFO :: __main__ :: executed in 5.296278238296509
+2022-07-11 18:08:22,722 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miedzyrzec-podlaski/
+2022-07-11 18:08:23,030 :: INFO :: sel_source :: found data: [11, 3, 0]
+2022-07-11 18:08:23,041 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:23,041 :: INFO :: __main__ :: executed in 5.026591062545776
+2022-07-11 18:08:27,678 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/terespol/
+2022-07-11 18:08:27,854 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:08:27,865 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:27,865 :: INFO :: __main__ :: executed in 4.824308395385742
+2022-07-11 18:08:32,767 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bilgoraj/
+2022-07-11 18:08:33,444 :: INFO :: sel_source :: found data: [13, 18, 0]
+2022-07-11 18:08:33,455 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:33,455 :: INFO :: __main__ :: executed in 5.5898847579956055
+2022-07-11 18:08:37,801 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/frampol/
+2022-07-11 18:08:38,094 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:08:38,107 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:38,107 :: INFO :: __main__ :: executed in 4.652219295501709
+2022-07-11 18:08:42,521 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jozefow/
+2022-07-11 18:08:42,810 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:08:42,822 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:42,822 :: INFO :: __main__ :: executed in 4.714444160461426
+2022-07-11 18:08:47,406 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tarnogrod/
+2022-07-11 18:08:47,641 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:08:47,656 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:47,656 :: INFO :: __main__ :: executed in 4.834639549255371
+2022-07-11 18:08:52,331 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rejowiec-fabryczny/
+2022-07-11 18:08:52,651 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:08:52,663 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:52,664 :: INFO :: __main__ :: executed in 5.007094621658325
+2022-07-11 18:08:57,851 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/siedliszcze/
+2022-07-11 18:08:58,028 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:08:58,040 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:08:58,040 :: INFO :: __main__ :: executed in 5.3760364055633545
+2022-07-11 18:09:02,466 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rejowiec/
+2022-07-11 18:09:02,787 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:09:02,801 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:02,801 :: INFO :: __main__ :: executed in 4.761653184890747
+2022-07-11 18:09:07,390 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/hrubieszow/
+2022-07-11 18:09:07,602 :: INFO :: sel_source :: found data: [9, 18, 0]
+2022-07-11 18:09:07,613 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:07,613 :: INFO :: __main__ :: executed in 4.811268329620361
+2022-07-11 18:09:12,122 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/janow-lubelski/
+2022-07-11 18:09:12,367 :: INFO :: sel_source :: found data: [1, 4, 0]
+2022-07-11 18:09:12,381 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:12,381 :: INFO :: __main__ :: executed in 4.768089771270752
+2022-07-11 18:09:16,957 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/modliborzyce/
+2022-07-11 18:09:17,259 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:09:17,271 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:17,271 :: INFO :: __main__ :: executed in 4.889801263809204
+2022-07-11 18:09:21,798 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krasnystaw/
+2022-07-11 18:09:22,125 :: INFO :: sel_source :: found data: [4, 17, 0]
+2022-07-11 18:09:22,136 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:22,136 :: INFO :: __main__ :: executed in 4.865684509277344
+2022-07-11 18:09:26,256 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krasnik/
+2022-07-11 18:09:26,566 :: INFO :: sel_source :: found data: [21, 37, 1]
+2022-07-11 18:09:26,577 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:26,577 :: INFO :: __main__ :: executed in 4.440868854522705
+2022-07-11 18:09:31,024 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/annopol/
+2022-07-11 18:09:31,258 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:09:31,289 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:31,289 :: INFO :: __main__ :: executed in 4.7117719650268555
+2022-07-11 18:09:35,435 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/urzedow/
+2022-07-11 18:09:35,670 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:09:35,681 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:35,681 :: INFO :: __main__ :: executed in 4.39206075668335
+2022-07-11 18:09:40,530 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubartow/
+2022-07-11 18:09:40,869 :: INFO :: sel_source :: found data: [6, 17, 0]
+2022-07-11 18:09:40,880 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:40,880 :: INFO :: __main__ :: executed in 5.199136018753052
+2022-07-11 18:09:45,488 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kock/
+2022-07-11 18:09:45,672 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 18:09:45,683 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:45,683 :: INFO :: __main__ :: executed in 4.802303314208984
+2022-07-11 18:09:49,983 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ostrow-lubelski/
+2022-07-11 18:09:50,162 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:09:50,173 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:50,173 :: INFO :: __main__ :: executed in 4.490159034729004
+2022-07-11 18:09:54,426 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/belzyce/
+2022-07-11 18:09:54,689 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:09:54,700 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:09:54,700 :: INFO :: __main__ :: executed in 4.527494430541992
+2022-07-11 18:10:00,648 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bychawa/
+2022-07-11 18:10:00,832 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 18:10:00,845 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:00,845 :: INFO :: __main__ :: executed in 6.14490818977356
+2022-07-11 18:10:05,716 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/leczna/
+2022-07-11 18:10:05,941 :: INFO :: sel_source :: found data: [11, 28, 0]
+2022-07-11 18:10:05,954 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:05,954 :: INFO :: __main__ :: executed in 5.108290672302246
+2022-07-11 18:10:11,811 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lukow/
+2022-07-11 18:10:12,252 :: INFO :: sel_source :: found data: [16, 16, 1]
+2022-07-11 18:10:12,263 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:12,263 :: INFO :: __main__ :: executed in 6.309589147567749
+2022-07-11 18:10:16,677 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/stoczek-lukowski/
+2022-07-11 18:10:16,853 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:10:16,867 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:16,867 :: INFO :: __main__ :: executed in 4.603684663772583
+2022-07-11 18:10:21,901 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jozefow-nad-wisla/
+2022-07-11 18:10:22,112 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:10:22,121 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:22,121 :: INFO :: __main__ :: executed in 5.254021406173706
+2022-07-11 18:10:26,778 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/opole-lubelskie/
+2022-07-11 18:10:26,968 :: INFO :: sel_source :: found data: [2, 5, 0]
+2022-07-11 18:10:26,979 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:26,979 :: INFO :: __main__ :: executed in 4.858245134353638
+2022-07-11 18:10:31,405 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/poniatowa/
+2022-07-11 18:10:31,647 :: INFO :: sel_source :: found data: [3, 3, 0]
+2022-07-11 18:10:31,659 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:31,659 :: INFO :: __main__ :: executed in 4.679404020309448
+2022-07-11 18:10:36,296 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/parczew/
+2022-07-11 18:10:36,637 :: INFO :: sel_source :: found data: [5, 10, 0]
+2022-07-11 18:10:36,650 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:36,650 :: INFO :: __main__ :: executed in 4.990821599960327
+2022-07-11 18:10:40,883 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pulawy/
+2022-07-11 18:10:41,061 :: INFO :: sel_source :: found data: [26, 67, 2]
+2022-07-11 18:10:41,073 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:41,073 :: INFO :: __main__ :: executed in 4.423192977905273
+2022-07-11 18:10:45,568 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kazimierz-dolny/
+2022-07-11 18:10:45,836 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:10:45,847 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:45,847 :: INFO :: __main__ :: executed in 4.77422308921814
+2022-07-11 18:10:50,130 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/naleczow/
+2022-07-11 18:10:50,587 :: INFO :: sel_source :: found data: [7, 3, 0]
+2022-07-11 18:10:50,598 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:50,598 :: INFO :: __main__ :: executed in 4.750673055648804
+2022-07-11 18:10:55,282 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radzyn-podlaski/
+2022-07-11 18:10:55,738 :: INFO :: sel_source :: found data: [10, 11, 0]
+2022-07-11 18:10:55,748 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:10:55,749 :: INFO :: __main__ :: executed in 5.150449752807617
+2022-07-11 18:11:00,368 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/deblin/
+2022-07-11 18:11:00,791 :: INFO :: sel_source :: found data: [22, 12, 0]
+2022-07-11 18:11:00,805 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:00,805 :: INFO :: __main__ :: executed in 5.056797742843628
+2022-07-11 18:11:05,484 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ryki/
+2022-07-11 18:11:05,721 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:11:05,732 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:05,732 :: INFO :: __main__ :: executed in 4.926265239715576
+2022-07-11 18:11:10,504 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swidnik/
+2022-07-11 18:11:10,738 :: INFO :: sel_source :: found data: [27, 81, 1]
+2022-07-11 18:11:10,751 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:10,752 :: INFO :: __main__ :: executed in 5.019865989685059
+2022-07-11 18:11:15,095 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piaski/
+2022-07-11 18:11:15,491 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:11:15,502 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:15,502 :: INFO :: __main__ :: executed in 4.750346660614014
+2022-07-11 18:11:20,382 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tomaszow-lubelski/
+2022-07-11 18:11:20,594 :: INFO :: sel_source :: found data: [13, 16, 0]
+2022-07-11 18:11:20,608 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:20,608 :: INFO :: __main__ :: executed in 5.106405019760132
+2022-07-11 18:11:25,362 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubycza-krolewska/
+2022-07-11 18:11:25,654 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 18:11:25,669 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:25,669 :: INFO :: __main__ :: executed in 5.0604567527771
+2022-07-11 18:11:29,975 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/laszczow/
+2022-07-11 18:11:30,225 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:11:30,237 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:30,238 :: INFO :: __main__ :: executed in 4.568623065948486
+2022-07-11 18:11:34,597 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tyszowce/
+2022-07-11 18:11:34,932 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:11:34,943 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:34,943 :: INFO :: __main__ :: executed in 4.705073118209839
+2022-07-11 18:11:39,646 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wlodawa/
+2022-07-11 18:11:39,999 :: INFO :: sel_source :: found data: [4, 11, 0]
+2022-07-11 18:11:40,009 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:40,009 :: INFO :: __main__ :: executed in 5.066297769546509
+2022-07-11 18:11:45,028 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krasnobrod/
+2022-07-11 18:11:45,204 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:11:45,216 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:45,216 :: INFO :: __main__ :: executed in 5.20678448677063
+2022-07-11 18:11:49,917 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczebrzeszyn/
+2022-07-11 18:11:50,224 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:11:50,238 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:50,238 :: INFO :: __main__ :: executed in 5.02199649810791
+2022-07-11 18:11:54,567 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zwierzyniec/
+2022-07-11 18:11:54,801 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:11:54,812 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:54,812 :: INFO :: __main__ :: executed in 4.5743396282196045
+2022-07-11 18:11:59,047 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/biala-podlaska/
+2022-07-11 18:11:59,228 :: INFO :: sel_source :: found data: [71, 76, 0]
+2022-07-11 18:11:59,239 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:11:59,239 :: INFO :: __main__ :: executed in 4.426761865615845
+2022-07-11 18:12:03,510 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chelm/
+2022-07-11 18:12:03,808 :: INFO :: sel_source :: found data: [56, 117, 0]
+2022-07-11 18:12:03,821 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:03,821 :: INFO :: __main__ :: executed in 4.58171272277832
+2022-07-11 18:12:08,732 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lublin/
+2022-07-11 18:12:08,961 :: INFO :: sel_source :: found data: [714, 1118, 3]
+2022-07-11 18:12:08,973 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:08,973 :: INFO :: __main__ :: executed in 5.152130842208862
+2022-07-11 18:12:13,718 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zamosc/
+2022-07-11 18:12:13,918 :: INFO :: sel_source :: found data: [34, 92, 1]
+2022-07-11 18:12:13,930 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:13,930 :: INFO :: __main__ :: executed in 4.957247734069824
+2022-07-11 18:12:19,053 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kostrzyn-nad-odra/
+2022-07-11 18:12:19,264 :: INFO :: sel_source :: found data: [7, 21, 0]
+2022-07-11 18:12:19,278 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:19,278 :: INFO :: __main__ :: executed in 5.348102331161499
+2022-07-11 18:12:23,736 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/witnica/
+2022-07-11 18:12:23,973 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:12:23,989 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:23,989 :: INFO :: __main__ :: executed in 4.710277795791626
+2022-07-11 18:12:28,625 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gubin/
+2022-07-11 18:12:29,139 :: INFO :: sel_source :: found data: [5, 8, 3]
+2022-07-11 18:12:29,150 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:29,151 :: INFO :: __main__ :: executed in 5.161646366119385
+2022-07-11 18:12:33,863 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krosno-odrzanskie/
+2022-07-11 18:12:34,175 :: INFO :: sel_source :: found data: [2, 17, 0]
+2022-07-11 18:12:34,186 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:34,186 :: INFO :: __main__ :: executed in 5.035708427429199
+2022-07-11 18:12:39,747 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miedzyrzecz/
+2022-07-11 18:12:39,973 :: INFO :: sel_source :: found data: [9, 25, 0]
+2022-07-11 18:12:39,984 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:39,984 :: INFO :: __main__ :: executed in 5.797757863998413
+2022-07-11 18:12:44,452 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/skwierzyna/
+2022-07-11 18:12:44,793 :: INFO :: sel_source :: found data: [4, 11, 0]
+2022-07-11 18:12:44,806 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:44,806 :: INFO :: __main__ :: executed in 4.822009325027466
+2022-07-11 18:12:49,565 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/trzciel/
+2022-07-11 18:12:49,746 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:12:49,759 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:49,759 :: INFO :: __main__ :: executed in 4.952867746353149
+2022-07-11 18:12:54,107 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowa-sol/
+2022-07-11 18:12:54,289 :: INFO :: sel_source :: found data: [26, 52, 1]
+2022-07-11 18:12:54,299 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:54,299 :: INFO :: __main__ :: executed in 4.539880752563477
+2022-07-11 18:12:58,930 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bytom-odrzanski/
+2022-07-11 18:12:59,206 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:12:59,221 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:12:59,221 :: INFO :: __main__ :: executed in 4.921672582626343
+2022-07-11 18:13:03,636 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kozuchow/
+2022-07-11 18:13:03,866 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:13:03,878 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:03,878 :: INFO :: __main__ :: executed in 4.657006025314331
+2022-07-11 18:13:08,156 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowe-miasteczko/
+2022-07-11 18:13:08,447 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:13:08,457 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:08,457 :: INFO :: __main__ :: executed in 4.579413652420044
+2022-07-11 18:13:12,883 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/otyn/
+2022-07-11 18:13:13,134 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:13:13,146 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:13,147 :: INFO :: __main__ :: executed in 4.689297914505005
+2022-07-11 18:13:17,904 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/cybinka/
+2022-07-11 18:13:18,296 :: INFO :: sel_source :: found data: [2, 2, 0]
+2022-07-11 18:13:18,308 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:18,308 :: INFO :: __main__ :: executed in 5.161275863647461
+2022-07-11 18:13:23,188 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/osno-lubuskie/
+2022-07-11 18:13:23,371 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:13:23,382 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:23,382 :: INFO :: __main__ :: executed in 5.0743091106414795
+2022-07-11 18:13:27,598 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rzepin/
+2022-07-11 18:13:27,925 :: INFO :: sel_source :: found data: [3, 3, 0]
+2022-07-11 18:13:27,936 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:27,936 :: INFO :: __main__ :: executed in 4.553659915924072
+2022-07-11 18:13:32,430 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/slubice/
+2022-07-11 18:13:32,628 :: INFO :: sel_source :: found data: [7, 11, 0]
+2022-07-11 18:13:32,640 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:32,640 :: INFO :: __main__ :: executed in 4.703694581985474
+2022-07-11 18:13:37,381 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dobiegniew/
+2022-07-11 18:13:37,561 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:13:37,572 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:37,572 :: INFO :: __main__ :: executed in 4.932451009750366
+2022-07-11 18:13:42,264 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/drezdenko/
+2022-07-11 18:13:42,476 :: INFO :: sel_source :: found data: [5, 14, 1]
+2022-07-11 18:13:42,487 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:42,487 :: INFO :: __main__ :: executed in 4.914982318878174
+2022-07-11 18:13:47,123 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strzelce-krajenskie/
+2022-07-11 18:13:47,395 :: INFO :: sel_source :: found data: [6, 8, 0]
+2022-07-11 18:13:47,405 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:47,405 :: INFO :: __main__ :: executed in 4.918164491653442
+2022-07-11 18:13:51,711 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubniewice/
+2022-07-11 18:13:51,988 :: INFO :: sel_source :: found data: [1, 2, 0]
+2022-07-11 18:13:52,001 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:52,001 :: INFO :: __main__ :: executed in 4.595819473266602
+2022-07-11 18:13:56,530 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sulecin/
+2022-07-11 18:13:56,721 :: INFO :: sel_source :: found data: [1, 9, 0]
+2022-07-11 18:13:56,734 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:13:56,734 :: INFO :: __main__ :: executed in 4.732998371124268
+2022-07-11 18:14:01,193 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/torzym/
+2022-07-11 18:14:01,489 :: INFO :: sel_source :: found data: [0, 4, 0]
+2022-07-11 18:14:01,500 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:01,500 :: INFO :: __main__ :: executed in 4.765971422195435
+2022-07-11 18:14:06,565 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swiebodzin/
+2022-07-11 18:14:07,223 :: INFO :: sel_source :: found data: [6, 33, 0]
+2022-07-11 18:14:07,235 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:07,236 :: INFO :: __main__ :: executed in 5.73515772819519
+2022-07-11 18:14:12,392 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zbaszynek/
+2022-07-11 18:14:12,635 :: INFO :: sel_source :: found data: [2, 5, 0]
+2022-07-11 18:14:12,647 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:12,647 :: INFO :: __main__ :: executed in 5.411126613616943
+2022-07-11 18:14:17,558 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/babimost/
+2022-07-11 18:14:17,865 :: INFO :: sel_source :: found data: [2, 1, 0]
+2022-07-11 18:14:17,875 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:17,876 :: INFO :: __main__ :: executed in 5.228705406188965
+2022-07-11 18:14:22,400 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/czerwiensk/
+2022-07-11 18:14:22,627 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 18:14:22,638 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:22,638 :: INFO :: __main__ :: executed in 4.762065887451172
+2022-07-11 18:14:27,504 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kargowa/
+2022-07-11 18:14:27,711 :: INFO :: sel_source :: found data: [3, 0, 0]
+2022-07-11 18:14:27,725 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:27,725 :: INFO :: __main__ :: executed in 5.087242126464844
+2022-07-11 18:14:32,364 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowogrod-bobrzanski/
+2022-07-11 18:14:32,602 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:14:32,612 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:32,613 :: INFO :: __main__ :: executed in 4.887531042098999
+2022-07-11 18:14:36,906 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sulechow/
+2022-07-11 18:14:37,222 :: INFO :: sel_source :: found data: [20, 28, 0]
+2022-07-11 18:14:37,234 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:37,234 :: INFO :: __main__ :: executed in 4.621666431427002
+2022-07-11 18:14:41,970 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gozdnica/
+2022-07-11 18:14:42,256 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:14:42,267 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:42,267 :: INFO :: __main__ :: executed in 5.032637596130371
+2022-07-11 18:14:46,804 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zagan/
+2022-07-11 18:14:47,063 :: INFO :: sel_source :: found data: [15, 27, 1]
+2022-07-11 18:14:47,074 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:47,074 :: INFO :: __main__ :: executed in 4.807250022888184
+2022-07-11 18:14:51,539 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ilowa/
+2022-07-11 18:14:51,725 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:14:51,741 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:51,741 :: INFO :: __main__ :: executed in 4.666410207748413
+2022-07-11 18:14:56,277 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/malomice/
+2022-07-11 18:14:56,531 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:14:56,539 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:14:56,539 :: INFO :: __main__ :: executed in 4.7981767654418945
+2022-07-11 18:15:01,538 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szprotawa/
+2022-07-11 18:15:01,737 :: INFO :: sel_source :: found data: [7, 6, 0]
+2022-07-11 18:15:01,752 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:01,752 :: INFO :: __main__ :: executed in 5.212705612182617
+2022-07-11 18:15:02,805 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/leknica/
+2022-07-11 18:15:02,884 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:15:02,896 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:02,896 :: INFO :: __main__ :: executed in 1.1439998149871826
+2022-07-11 18:15:07,525 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zary/
+2022-07-11 18:15:07,820 :: INFO :: sel_source :: found data: [16, 38, 1]
+2022-07-11 18:15:07,835 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:07,835 :: INFO :: __main__ :: executed in 4.939507484436035
+2022-07-11 18:15:13,008 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jasien/
+2022-07-11 18:15:13,297 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:15:13,308 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:13,308 :: INFO :: __main__ :: executed in 5.472390651702881
+2022-07-11 18:15:17,932 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lubsko/
+2022-07-11 18:15:18,276 :: INFO :: sel_source :: found data: [4, 9, 0]
+2022-07-11 18:15:18,288 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:18,288 :: INFO :: __main__ :: executed in 4.979876279830933
+2022-07-11 18:15:23,077 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/slawa/
+2022-07-11 18:15:23,375 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:15:23,386 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:23,386 :: INFO :: __main__ :: executed in 5.098337650299072
+2022-07-11 18:15:27,928 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szlichtyngowa/
+2022-07-11 18:15:28,163 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:15:28,173 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:28,174 :: INFO :: __main__ :: executed in 4.787445306777954
+2022-07-11 18:15:33,095 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wschowa/
+2022-07-11 18:15:33,408 :: INFO :: sel_source :: found data: [3, 5, 0]
+2022-07-11 18:15:33,419 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:33,419 :: INFO :: __main__ :: executed in 5.245676040649414
+2022-07-11 18:15:35,113 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gorzow-wielkopolski/
+2022-07-11 18:15:35,202 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:15:35,213 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:35,213 :: INFO :: __main__ :: executed in 1.7935845851898193
+2022-07-11 18:15:39,757 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zielona-gora/
+2022-07-11 18:15:40,041 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:15:40,053 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:40,053 :: INFO :: __main__ :: executed in 4.839699029922485
+2022-07-11 18:15:44,345 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/belchatow/
+2022-07-11 18:15:44,620 :: INFO :: sel_source :: found data: [43, 79, 0]
+2022-07-11 18:15:44,632 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:44,632 :: INFO :: __main__ :: executed in 4.57959508895874
+2022-07-11 18:15:49,756 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zelow/
+2022-07-11 18:15:50,178 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 18:15:50,192 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:50,192 :: INFO :: __main__ :: executed in 5.559651136398315
+2022-07-11 18:15:55,570 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kutno/
+2022-07-11 18:15:55,749 :: INFO :: sel_source :: found data: [23, 42, 0]
+2022-07-11 18:15:55,763 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:15:55,763 :: INFO :: __main__ :: executed in 5.571468114852905
+2022-07-11 18:16:00,140 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krosniewice/
+2022-07-11 18:16:00,326 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:16:00,339 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:00,340 :: INFO :: __main__ :: executed in 4.576038360595703
+2022-07-11 18:16:04,633 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zychlin/
+2022-07-11 18:16:04,989 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:16:05,000 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:05,000 :: INFO :: __main__ :: executed in 4.659992218017578
+2022-07-11 18:16:10,326 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lask/
+2022-07-11 18:16:10,601 :: INFO :: sel_source :: found data: [14, 19, 0]
+2022-07-11 18:16:10,612 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:10,612 :: INFO :: __main__ :: executed in 5.612429141998291
+2022-07-11 18:16:16,112 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/leczyca/
+2022-07-11 18:16:16,356 :: INFO :: sel_source :: found data: [6, 20, 0]
+2022-07-11 18:16:16,367 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:16,367 :: INFO :: __main__ :: executed in 5.755212306976318
+2022-07-11 18:16:21,481 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piatek/
+2022-07-11 18:16:21,782 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:16:21,793 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:21,793 :: INFO :: __main__ :: executed in 5.426032543182373
+2022-07-11 18:16:27,174 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lowicz/
+2022-07-11 18:16:27,702 :: INFO :: sel_source :: found data: [8, 22, 0]
+2022-07-11 18:16:27,715 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:27,715 :: INFO :: __main__ :: executed in 5.921531915664673
+2022-07-11 18:16:32,548 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/koluszki/
+2022-07-11 18:16:32,895 :: INFO :: sel_source :: found data: [4, 6, 0]
+2022-07-11 18:16:32,904 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:32,904 :: INFO :: __main__ :: executed in 5.189204216003418
+2022-07-11 18:16:37,493 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rzgow/
+2022-07-11 18:16:37,785 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:16:37,797 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:37,797 :: INFO :: __main__ :: executed in 4.8927836418151855
+2022-07-11 18:16:42,428 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tuszyn/
+2022-07-11 18:16:42,661 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:16:42,672 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:42,672 :: INFO :: __main__ :: executed in 4.875085115432739
+2022-07-11 18:16:47,698 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/drzewica/
+2022-07-11 18:16:47,874 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:16:47,887 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:47,887 :: INFO :: __main__ :: executed in 5.2147462368011475
+2022-07-11 18:16:53,318 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/opoczno/
+2022-07-11 18:16:53,533 :: INFO :: sel_source :: found data: [15, 16, 0]
+2022-07-11 18:16:53,547 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:53,547 :: INFO :: __main__ :: executed in 5.660098552703857
+2022-07-11 18:16:58,318 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/konstantynow-lodzki/
+2022-07-11 18:16:58,527 :: INFO :: sel_source :: found data: [6, 15, 0]
+2022-07-11 18:16:58,536 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:16:58,536 :: INFO :: __main__ :: executed in 4.989161729812622
+2022-07-11 18:17:02,791 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pabianice/
+2022-07-11 18:17:02,986 :: INFO :: sel_source :: found data: [58, 102, 1]
+2022-07-11 18:17:02,998 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:02,998 :: INFO :: __main__ :: executed in 4.461460590362549
+2022-07-11 18:17:07,446 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dzialoszyn/
+2022-07-11 18:17:07,679 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:17:07,690 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:07,690 :: INFO :: __main__ :: executed in 4.691911220550537
+2022-07-11 18:17:13,015 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pajeczno/
+2022-07-11 18:17:13,365 :: INFO :: sel_source :: found data: [3, 3, 0]
+2022-07-11 18:17:13,376 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:13,376 :: INFO :: __main__ :: executed in 5.685746669769287
+2022-07-11 18:17:17,803 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sulejow/
+2022-07-11 18:17:18,050 :: INFO :: sel_source :: found data: [1, 6, 0]
+2022-07-11 18:17:18,061 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:18,061 :: INFO :: __main__ :: executed in 4.685636758804321
+2022-07-11 18:17:23,101 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wolborz/
+2022-07-11 18:17:23,282 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:17:23,293 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:23,293 :: INFO :: __main__ :: executed in 5.231778383255005
+2022-07-11 18:17:27,759 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/poddebice/
+2022-07-11 18:17:28,057 :: INFO :: sel_source :: found data: [2, 1, 0]
+2022-07-11 18:17:28,069 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:28,069 :: INFO :: __main__ :: executed in 4.776058912277222
+2022-07-11 18:17:32,654 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/uniejow/
+2022-07-11 18:17:32,849 :: INFO :: sel_source :: found data: [7, 4, 0]
+2022-07-11 18:17:32,864 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:32,864 :: INFO :: __main__ :: executed in 4.7949888706207275
+2022-07-11 18:17:37,984 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radomsko/
+2022-07-11 18:17:38,192 :: INFO :: sel_source :: found data: [40, 61, 0]
+2022-07-11 18:17:38,207 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:38,207 :: INFO :: __main__ :: executed in 5.342887878417969
+2022-07-11 18:17:42,801 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kamiensk/
+2022-07-11 18:17:43,030 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:17:43,041 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:43,041 :: INFO :: __main__ :: executed in 4.833535671234131
+2022-07-11 18:17:47,776 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/przedborz/
+2022-07-11 18:17:48,080 :: INFO :: sel_source :: found data: [1, 3, 0]
+2022-07-11 18:17:48,091 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:48,091 :: INFO :: __main__ :: executed in 5.0505053997039795
+2022-07-11 18:17:53,756 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rawa-mazowiecka/
+2022-07-11 18:17:54,184 :: INFO :: sel_source :: found data: [8, 18, 0]
+2022-07-11 18:17:54,195 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:54,195 :: INFO :: __main__ :: executed in 6.10380482673645
+2022-07-11 18:17:58,790 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/biala-rawska/
+2022-07-11 18:17:58,972 :: INFO :: sel_source :: found data: [2, 2, 0]
+2022-07-11 18:17:58,983 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:17:58,983 :: INFO :: __main__ :: executed in 4.788242816925049
+2022-07-11 18:18:03,976 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sieradz/
+2022-07-11 18:18:04,613 :: INFO :: sel_source :: found data: [11, 23, 1]
+2022-07-11 18:18:04,627 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:04,627 :: INFO :: __main__ :: executed in 5.6435651779174805
+2022-07-11 18:18:09,902 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/blaszki/
+2022-07-11 18:18:10,147 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:18:10,168 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:10,168 :: INFO :: __main__ :: executed in 5.541223764419556
+2022-07-11 18:18:15,062 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/warta/
+2022-07-11 18:18:15,242 :: INFO :: sel_source :: found data: [0, 3, 0]
+2022-07-11 18:18:15,253 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:15,253 :: INFO :: __main__ :: executed in 5.084392547607422
+2022-07-11 18:18:19,507 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zloczew/
+2022-07-11 18:18:19,687 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:18:19,702 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:19,702 :: INFO :: __main__ :: executed in 4.44937539100647
+2022-07-11 18:18:23,849 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tomaszow-mazowiecki/
+2022-07-11 18:18:24,217 :: INFO :: sel_source :: found data: [47, 74, 0]
+2022-07-11 18:18:24,233 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:24,233 :: INFO :: __main__ :: executed in 4.53072452545166
+2022-07-11 18:18:28,966 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wielun/
+2022-07-11 18:18:29,603 :: INFO :: sel_source :: found data: [14, 23, 0]
+2022-07-11 18:18:29,614 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:29,614 :: INFO :: __main__ :: executed in 5.381113052368164
+2022-07-11 18:18:34,144 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lututow/
+2022-07-11 18:18:34,410 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:18:34,421 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:34,421 :: INFO :: __main__ :: executed in 4.806957721710205
+2022-07-11 18:18:39,377 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wieruszow/
+2022-07-11 18:18:39,567 :: INFO :: sel_source :: found data: [4, 7, 0]
+2022-07-11 18:18:39,581 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:39,581 :: INFO :: __main__ :: executed in 5.159860372543335
+2022-07-11 18:18:43,872 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zdunska-wola/
+2022-07-11 18:18:44,050 :: INFO :: sel_source :: found data: [13, 39, 0]
+2022-07-11 18:18:44,061 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:44,061 :: INFO :: __main__ :: executed in 4.480168104171753
+2022-07-11 18:18:48,788 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szadek/
+2022-07-11 18:18:49,023 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:18:49,034 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:49,034 :: INFO :: __main__ :: executed in 4.972924709320068
+2022-07-11 18:18:54,700 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/glowno/
+2022-07-11 18:18:54,891 :: INFO :: sel_source :: found data: [3, 6, 0]
+2022-07-11 18:18:54,901 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:18:54,901 :: INFO :: __main__ :: executed in 5.866935729980469
+2022-07-11 18:18:59,922 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ozorkow/
+2022-07-11 18:19:00,255 :: INFO :: sel_source :: found data: [8, 5, 0]
+2022-07-11 18:19:00,268 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:00,268 :: INFO :: __main__ :: executed in 5.366340398788452
+2022-07-11 18:19:04,379 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zgierz/
+2022-07-11 18:19:04,556 :: INFO :: sel_source :: found data: [11, 40, 2]
+2022-07-11 18:19:04,567 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:04,568 :: INFO :: __main__ :: executed in 4.299889087677002
+2022-07-11 18:19:10,793 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/aleksandrow-lodzki/
+2022-07-11 18:19:10,999 :: INFO :: sel_source :: found data: [9, 11, 0]
+2022-07-11 18:19:11,012 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:11,012 :: INFO :: __main__ :: executed in 6.444723844528198
+2022-07-11 18:19:15,883 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/strykow/
+2022-07-11 18:19:16,118 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:19:16,129 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:16,129 :: INFO :: __main__ :: executed in 5.11673903465271
+2022-07-11 18:19:20,701 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzeziny/
+2022-07-11 18:19:20,962 :: INFO :: sel_source :: found data: [3, 9, 0]
+2022-07-11 18:19:20,973 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:20,973 :: INFO :: __main__ :: executed in 4.844072103500366
+2022-07-11 18:19:26,015 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lodz/
+2022-07-11 18:19:26,209 :: INFO :: sel_source :: found data: [944, 1630, 19]
+2022-07-11 18:19:26,223 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:26,223 :: INFO :: __main__ :: executed in 5.249675750732422
+2022-07-11 18:19:32,562 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piotrkow-trybunalski/
+2022-07-11 18:19:32,779 :: INFO :: sel_source :: found data: [57, 63, 0]
+2022-07-11 18:19:32,794 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:32,794 :: INFO :: __main__ :: executed in 6.571313381195068
+2022-07-11 18:19:37,018 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/skierniewice/
+2022-07-11 18:19:37,299 :: INFO :: sel_source :: found data: [27, 41, 1]
+2022-07-11 18:19:37,310 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:37,310 :: INFO :: __main__ :: executed in 4.51607346534729
+2022-07-11 18:19:41,865 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bochnia/
+2022-07-11 18:19:42,093 :: INFO :: sel_source :: found data: [25, 24, 0]
+2022-07-11 18:19:42,104 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:42,104 :: INFO :: __main__ :: executed in 4.793154954910278
+2022-07-11 18:19:46,955 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowy-wisnicz/
+2022-07-11 18:19:47,242 :: INFO :: sel_source :: found data: [3, 0, 0]
+2022-07-11 18:19:47,253 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:47,253 :: INFO :: __main__ :: executed in 5.149267196655273
+2022-07-11 18:19:52,330 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzesko/
+2022-07-11 18:19:52,964 :: INFO :: sel_source :: found data: [12, 22, 0]
+2022-07-11 18:19:52,976 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:52,976 :: INFO :: __main__ :: executed in 5.723006010055542
+2022-07-11 18:19:58,628 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/czchow/
+2022-07-11 18:19:58,942 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:19:58,955 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:19:58,955 :: INFO :: __main__ :: executed in 5.979451894760132
+2022-07-11 18:20:04,330 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/alwernia/
+2022-07-11 18:20:04,582 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 18:20:04,595 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:04,595 :: INFO :: __main__ :: executed in 5.639487266540527
+2022-07-11 18:20:09,365 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chrzanow/
+2022-07-11 18:20:09,545 :: INFO :: sel_source :: found data: [36, 31, 1]
+2022-07-11 18:20:09,557 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:09,557 :: INFO :: __main__ :: executed in 4.961546897888184
+2022-07-11 18:20:14,575 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/libiaz/
+2022-07-11 18:20:15,050 :: INFO :: sel_source :: found data: [9, 8, 0]
+2022-07-11 18:20:15,061 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:15,061 :: INFO :: __main__ :: executed in 5.504000186920166
+2022-07-11 18:20:19,576 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/trzebinia/
+2022-07-11 18:20:19,781 :: INFO :: sel_source :: found data: [5, 8, 1]
+2022-07-11 18:20:19,792 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:19,792 :: INFO :: __main__ :: executed in 4.731567144393921
+2022-07-11 18:20:26,601 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dabrowa-tarnowska/
+2022-07-11 18:20:26,848 :: INFO :: sel_source :: found data: [7, 0, 0]
+2022-07-11 18:20:26,859 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:26,859 :: INFO :: __main__ :: executed in 7.066817283630371
+2022-07-11 18:20:31,593 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczucin/
+2022-07-11 18:20:31,864 :: INFO :: sel_source :: found data: [4, 0, 0]
+2022-07-11 18:20:31,875 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:31,875 :: INFO :: __main__ :: executed in 5.016010761260986
+2022-07-11 18:20:37,086 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gorlice/
+2022-07-11 18:20:37,331 :: INFO :: sel_source :: found data: [15, 17, 0]
+2022-07-11 18:20:37,341 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:37,341 :: INFO :: __main__ :: executed in 5.466212034225464
+2022-07-11 18:20:41,870 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/biecz/
+2022-07-11 18:20:42,049 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:20:42,060 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:42,060 :: INFO :: __main__ :: executed in 4.718233823776245
+2022-07-11 18:20:46,536 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bobowa/
+2022-07-11 18:20:46,723 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:20:46,733 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:46,733 :: INFO :: __main__ :: executed in 4.673590183258057
+2022-07-11 18:20:51,561 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krzeszowice/
+2022-07-11 18:20:52,016 :: INFO :: sel_source :: found data: [5, 14, 0]
+2022-07-11 18:20:52,028 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:52,028 :: INFO :: __main__ :: executed in 5.2947142124176025
+2022-07-11 18:20:57,569 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/skala/
+2022-07-11 18:20:57,829 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:20:57,843 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:20:57,843 :: INFO :: __main__ :: executed in 5.815008640289307
+2022-07-11 18:21:03,123 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/skawina/
+2022-07-11 18:21:03,729 :: INFO :: sel_source :: found data: [7, 24, 0]
+2022-07-11 18:21:03,740 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:03,740 :: INFO :: __main__ :: executed in 5.8970701694488525
+2022-07-11 18:21:08,826 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/slomniki/
+2022-07-11 18:21:09,007 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:21:09,021 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:09,021 :: INFO :: __main__ :: executed in 5.280907392501831
+2022-07-11 18:21:14,254 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/swiatniki-gorne/
+2022-07-11 18:21:14,556 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:21:14,571 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:14,571 :: INFO :: __main__ :: executed in 5.55001974105835
+2022-07-11 18:21:19,319 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/limanowa/
+2022-07-11 18:21:19,616 :: INFO :: sel_source :: found data: [5, 0, 0]
+2022-07-11 18:21:19,628 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:19,628 :: INFO :: __main__ :: executed in 5.0563859939575195
+2022-07-11 18:21:24,454 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mszana-dolna/
+2022-07-11 18:21:24,786 :: INFO :: sel_source :: found data: [3, 0, 0]
+2022-07-11 18:21:24,798 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:24,798 :: INFO :: __main__ :: executed in 5.169873237609863
+2022-07-11 18:21:29,836 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/miechow/
+2022-07-11 18:21:30,114 :: INFO :: sel_source :: found data: [8, 12, 0]
+2022-07-11 18:21:30,124 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:30,125 :: INFO :: __main__ :: executed in 5.326816082000732
+2022-07-11 18:21:35,310 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/dobczyce/
+2022-07-11 18:21:35,652 :: INFO :: sel_source :: found data: [2, 2, 0]
+2022-07-11 18:21:35,666 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:35,666 :: INFO :: __main__ :: executed in 5.5411553382873535
+2022-07-11 18:21:40,236 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/myslenice/
+2022-07-11 18:21:40,546 :: INFO :: sel_source :: found data: [4, 4, 0]
+2022-07-11 18:21:40,559 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:40,559 :: INFO :: __main__ :: executed in 4.893641710281372
+2022-07-11 18:21:45,378 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sulkowice/
+2022-07-11 18:21:45,630 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:21:45,643 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:45,643 :: INFO :: __main__ :: executed in 5.083637237548828
+2022-07-11 18:21:50,728 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/grybow/
+2022-07-11 18:21:50,978 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:21:50,993 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:50,993 :: INFO :: __main__ :: executed in 5.349828004837036
+2022-07-11 18:21:55,815 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krynica-zdroj/
+2022-07-11 18:21:56,285 :: INFO :: sel_source :: found data: [11, 7, 0]
+2022-07-11 18:21:56,294 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:21:56,294 :: INFO :: __main__ :: executed in 5.3009209632873535
+2022-07-11 18:22:02,386 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/muszyna/
+2022-07-11 18:22:02,634 :: INFO :: sel_source :: found data: [2, 1, 0]
+2022-07-11 18:22:02,650 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:02,650 :: INFO :: __main__ :: executed in 6.355742692947388
+2022-07-11 18:22:07,441 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piwniczna-zdroj/
+2022-07-11 18:22:07,621 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:22:07,633 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:07,633 :: INFO :: __main__ :: executed in 4.9830145835876465
+2022-07-11 18:22:12,481 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/stary-sacz/
+2022-07-11 18:22:12,661 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:22:12,671 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:12,671 :: INFO :: __main__ :: executed in 5.0385613441467285
+2022-07-11 18:22:17,996 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowy-targ/
+2022-07-11 18:22:18,271 :: INFO :: sel_source :: found data: [9, 13, 0]
+2022-07-11 18:22:18,282 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:18,282 :: INFO :: __main__ :: executed in 5.610419273376465
+2022-07-11 18:22:23,450 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/szczawnica/
+2022-07-11 18:22:23,749 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:22:23,760 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:23,760 :: INFO :: __main__ :: executed in 5.477928638458252
+2022-07-11 18:22:28,767 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rabka-zdroj/
+2022-07-11 18:22:29,070 :: INFO :: sel_source :: found data: [4, 1, 0]
+2022-07-11 18:22:29,081 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:29,081 :: INFO :: __main__ :: executed in 5.321153402328491
+2022-07-11 18:22:30,227 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bukowno/
+2022-07-11 18:22:30,319 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:22:30,330 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:30,330 :: INFO :: __main__ :: executed in 1.2486655712127686
+2022-07-11 18:22:35,636 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/olkusz/
+2022-07-11 18:22:36,241 :: INFO :: sel_source :: found data: [18, 22, 0]
+2022-07-11 18:22:36,255 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:36,255 :: INFO :: __main__ :: executed in 5.925197601318359
+2022-07-11 18:22:40,981 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wolbrom/
+2022-07-11 18:22:41,176 :: INFO :: sel_source :: found data: [5, 6, 0]
+2022-07-11 18:22:41,187 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:41,187 :: INFO :: __main__ :: executed in 4.932242393493652
+2022-07-11 18:22:46,143 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/oswiecim/
+2022-07-11 18:22:46,373 :: INFO :: sel_source :: found data: [43, 61, 1]
+2022-07-11 18:22:46,384 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:46,384 :: INFO :: __main__ :: executed in 5.196909666061401
+2022-07-11 18:22:51,596 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brzeszcze/
+2022-07-11 18:22:52,073 :: INFO :: sel_source :: found data: [7, 17, 0]
+2022-07-11 18:22:52,085 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:52,085 :: INFO :: __main__ :: executed in 5.7002949714660645
+2022-07-11 18:22:56,632 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/chelmek/
+2022-07-11 18:22:56,972 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:22:56,985 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:22:56,985 :: INFO :: __main__ :: executed in 4.900039196014404
+2022-07-11 18:23:02,281 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kety/
+2022-07-11 18:23:02,555 :: INFO :: sel_source :: found data: [13, 20, 0]
+2022-07-11 18:23:02,566 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:02,566 :: INFO :: __main__ :: executed in 5.581354856491089
+2022-07-11 18:23:07,172 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zator/
+2022-07-11 18:23:07,406 :: INFO :: sel_source :: found data: [1, 1, 0]
+2022-07-11 18:23:07,417 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:07,417 :: INFO :: __main__ :: executed in 4.850596904754639
+2022-07-11 18:23:12,070 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/koszyce/
+2022-07-11 18:23:12,303 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:23:12,317 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:12,317 :: INFO :: __main__ :: executed in 4.90058970451355
+2022-07-11 18:23:16,887 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowe-brzesko/
+2022-07-11 18:23:17,127 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:23:17,139 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:17,139 :: INFO :: __main__ :: executed in 4.821446418762207
+2022-07-11 18:23:22,887 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/proszowice/
+2022-07-11 18:23:23,118 :: INFO :: sel_source :: found data: [5, 2, 1]
+2022-07-11 18:23:23,131 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:23,131 :: INFO :: __main__ :: executed in 5.9925150871276855
+2022-07-11 18:23:27,889 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jordanow/
+2022-07-11 18:23:28,189 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:23:28,200 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:28,200 :: INFO :: __main__ :: executed in 5.068220376968384
+2022-07-11 18:23:33,020 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sucha-beskidzka/
+2022-07-11 18:23:33,267 :: INFO :: sel_source :: found data: [2, 3, 0]
+2022-07-11 18:23:33,278 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:33,278 :: INFO :: __main__ :: executed in 5.078440189361572
+2022-07-11 18:23:38,077 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/makow-podhalanski/
+2022-07-11 18:23:38,234 :: INFO :: sel_source :: found data: [1, 3, 0]
+2022-07-11 18:23:38,245 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:38,245 :: INFO :: __main__ :: executed in 4.96660590171814
+2022-07-11 18:23:43,436 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ciezkowice/
+2022-07-11 18:23:43,759 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:23:43,771 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:43,771 :: INFO :: __main__ :: executed in 5.526272296905518
+2022-07-11 18:23:48,170 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/radlow/
+2022-07-11 18:23:48,350 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:23:48,364 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:48,364 :: INFO :: __main__ :: executed in 4.5932936668396
+2022-07-11 18:23:53,231 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ryglice/
+2022-07-11 18:23:53,566 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:23:53,578 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:53,578 :: INFO :: __main__ :: executed in 5.213341474533081
+2022-07-11 18:23:58,150 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tuchow/
+2022-07-11 18:23:58,399 :: INFO :: sel_source :: found data: [1, 0, 0]
+2022-07-11 18:23:58,411 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:23:58,411 :: INFO :: __main__ :: executed in 4.832721948623657
+2022-07-11 18:24:02,799 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wojnicz/
+2022-07-11 18:24:03,041 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:24:03,052 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:03,052 :: INFO :: __main__ :: executed in 4.641480207443237
+2022-07-11 18:24:07,812 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zakliczyn/
+2022-07-11 18:24:08,047 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:24:08,058 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:08,058 :: INFO :: __main__ :: executed in 5.005489826202393
+2022-07-11 18:24:12,469 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zabno/
+2022-07-11 18:24:12,646 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:24:12,657 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:12,657 :: INFO :: __main__ :: executed in 4.599449157714844
+2022-07-11 18:24:17,349 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zakopane/
+2022-07-11 18:24:17,530 :: INFO :: sel_source :: found data: [40, 72, 0]
+2022-07-11 18:24:17,541 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:17,541 :: INFO :: __main__ :: executed in 4.883899450302124
+2022-07-11 18:24:22,638 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/andrychow/
+2022-07-11 18:24:23,100 :: INFO :: sel_source :: found data: [7, 17, 1]
+2022-07-11 18:24:23,114 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:23,114 :: INFO :: __main__ :: executed in 5.572433948516846
+2022-07-11 18:24:27,652 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kalwaria-zebrzydowska/
+2022-07-11 18:24:27,838 :: INFO :: sel_source :: found data: [4, 1, 0]
+2022-07-11 18:24:27,849 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:27,849 :: INFO :: __main__ :: executed in 4.735594272613525
+2022-07-11 18:24:32,833 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wadowice/
+2022-07-11 18:24:33,051 :: INFO :: sel_source :: found data: [13, 21, 0]
+2022-07-11 18:24:33,061 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:33,061 :: INFO :: __main__ :: executed in 5.212074279785156
+2022-07-11 18:24:37,806 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/niepolomice/
+2022-07-11 18:24:38,071 :: INFO :: sel_source :: found data: [12, 13, 1]
+2022-07-11 18:24:38,083 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:38,083 :: INFO :: __main__ :: executed in 5.021563529968262
+2022-07-11 18:24:42,357 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wieliczka/
+2022-07-11 18:24:42,646 :: INFO :: sel_source :: found data: [22, 101, 0]
+2022-07-11 18:24:42,658 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:42,658 :: INFO :: __main__ :: executed in 4.574978590011597
+2022-07-11 18:24:47,051 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/krakow/
+2022-07-11 18:24:47,340 :: INFO :: sel_source :: found data: [1964, 2143, 9]
+2022-07-11 18:24:47,352 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:47,352 :: INFO :: __main__ :: executed in 4.694021463394165
+2022-07-11 18:24:51,631 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowy-sacz/
+2022-07-11 18:24:51,816 :: INFO :: sel_source :: found data: [33, 71, 2]
+2022-07-11 18:24:51,827 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:51,827 :: INFO :: __main__ :: executed in 4.475358009338379
+2022-07-11 18:24:57,063 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tarnow/
+2022-07-11 18:24:57,244 :: INFO :: sel_source :: found data: [47, 63, 0]
+2022-07-11 18:24:57,258 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:24:57,258 :: INFO :: __main__ :: executed in 5.430529832839966
+2022-07-11 18:25:01,752 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/bialobrzegi/
+2022-07-11 18:25:01,940 :: INFO :: sel_source :: found data: [3, 2, 0]
+2022-07-11 18:25:01,950 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:01,950 :: INFO :: __main__ :: executed in 4.692151784896851
+2022-07-11 18:25:06,601 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/wysmierzyce/
+2022-07-11 18:25:06,781 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:06,794 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:06,794 :: INFO :: __main__ :: executed in 4.844128370285034
+2022-07-11 18:25:11,119 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ciechanow/
+2022-07-11 18:25:11,486 :: INFO :: sel_source :: found data: [33, 61, 3]
+2022-07-11 18:25:11,496 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:11,497 :: INFO :: __main__ :: executed in 4.7021095752716064
+2022-07-11 18:25:16,311 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/glinojeck/
+2022-07-11 18:25:16,492 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:25:16,506 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:16,506 :: INFO :: __main__ :: executed in 5.009197950363159
+2022-07-11 18:25:21,590 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/garwolin/
+2022-07-11 18:25:21,928 :: INFO :: sel_source :: found data: [13, 9, 0]
+2022-07-11 18:25:21,939 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:21,939 :: INFO :: __main__ :: executed in 5.43297004699707
+2022-07-11 18:25:26,758 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/laskarzew/
+2022-07-11 18:25:27,047 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:27,061 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:27,061 :: INFO :: __main__ :: executed in 5.12229323387146
+2022-07-11 18:25:28,152 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/pilawa/
+2022-07-11 18:25:28,251 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:28,262 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:28,262 :: INFO :: __main__ :: executed in 1.2008466720581055
+2022-07-11 18:25:32,485 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zelechow/
+2022-07-11 18:25:32,719 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:32,736 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:32,736 :: INFO :: __main__ :: executed in 4.474235534667969
+2022-07-11 18:25:39,661 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gostynin/
+2022-07-11 18:25:39,914 :: INFO :: sel_source :: found data: [9, 14, 0]
+2022-07-11 18:25:39,929 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:39,929 :: INFO :: __main__ :: executed in 7.192366361618042
+2022-07-11 18:25:44,183 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sanniki/
+2022-07-11 18:25:44,452 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:44,463 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:44,463 :: INFO :: __main__ :: executed in 4.533928871154785
+2022-07-11 18:25:49,185 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/milanowek/
+2022-07-11 18:25:49,602 :: INFO :: sel_source :: found data: [8, 10, 0]
+2022-07-11 18:25:49,613 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:49,613 :: INFO :: __main__ :: executed in 5.150644779205322
+2022-07-11 18:25:54,280 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/podkowa-lesna/
+2022-07-11 18:25:54,562 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:25:54,577 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:54,577 :: INFO :: __main__ :: executed in 4.963223934173584
+2022-07-11 18:25:59,025 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/grodzisk-mazowiecki/
+2022-07-11 18:25:59,303 :: INFO :: sel_source :: found data: [34, 57, 0]
+2022-07-11 18:25:59,314 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:25:59,314 :: INFO :: __main__ :: executed in 4.737740516662598
+2022-07-11 18:26:06,374 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/grojec/
+2022-07-11 18:26:06,553 :: INFO :: sel_source :: found data: [27, 17, 0]
+2022-07-11 18:26:06,567 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:06,567 :: INFO :: __main__ :: executed in 7.252723217010498
+2022-07-11 18:26:11,939 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mogielnica/
+2022-07-11 18:26:12,233 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:26:12,243 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:12,243 :: INFO :: __main__ :: executed in 5.675802946090698
+2022-07-11 18:26:16,872 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowe-miasto-nad-pilica/
+2022-07-11 18:26:17,200 :: INFO :: sel_source :: found data: [0, 2, 0]
+2022-07-11 18:26:17,213 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:17,214 :: INFO :: __main__ :: executed in 4.970398187637329
+2022-07-11 18:26:21,985 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/warka/
+2022-07-11 18:26:22,307 :: INFO :: sel_source :: found data: [5, 12, 0]
+2022-07-11 18:26:22,318 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:22,318 :: INFO :: __main__ :: executed in 5.104163646697998
+2022-07-11 18:26:27,145 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kozienice/
+2022-07-11 18:26:27,361 :: INFO :: sel_source :: found data: [11, 20, 2]
+2022-07-11 18:26:27,372 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:27,373 :: INFO :: __main__ :: executed in 5.0547027587890625
+2022-07-11 18:26:32,444 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/legionowo/
+2022-07-11 18:26:32,723 :: INFO :: sel_source :: found data: [48, 67, 0]
+2022-07-11 18:26:32,742 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:32,742 :: INFO :: __main__ :: executed in 5.369148254394531
+2022-07-11 18:26:38,564 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/serock/
+2022-07-11 18:26:38,792 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:26:38,803 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:38,804 :: INFO :: __main__ :: executed in 6.061770677566528
+2022-07-11 18:26:43,618 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/lipsko/
+2022-07-11 18:26:43,935 :: INFO :: sel_source :: found data: [0, 5, 0]
+2022-07-11 18:26:43,949 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:26:43,949 :: INFO :: __main__ :: executed in 5.145297050476074
+2022-07-11 18:26:48,766 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/losice/
+2022-07-11 18:26:48,943 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:26:48,945 :: INFO :: __main__ :: executed in 4.9961278438568115
+2022-07-11 18:26:53,709 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/makow-mazowiecki/
+2022-07-11 18:26:54,021 :: INFO :: sel_source :: found data: [4, 4, 0]
+2022-07-11 18:26:54,023 :: INFO :: __main__ :: executed in 5.077855825424194
+2022-07-11 18:26:58,878 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/rozan/
+2022-07-11 18:26:59,051 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:26:59,052 :: INFO :: __main__ :: executed in 5.0290608406066895
+2022-07-11 18:27:03,480 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/minsk-mazowiecki/
+2022-07-11 18:27:03,766 :: INFO :: sel_source :: found data: [19, 59, 1]
+2022-07-11 18:27:03,767 :: INFO :: __main__ :: executed in 4.715244770050049
+2022-07-11 18:27:08,270 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/halinow/
+2022-07-11 18:27:08,446 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:27:08,447 :: INFO :: __main__ :: executed in 4.679746150970459
+2022-07-11 18:27:12,758 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/kaluszyn/
+2022-07-11 18:27:12,970 :: INFO :: sel_source :: found data: [2, 0, 0]
+2022-07-11 18:27:12,972 :: INFO :: __main__ :: executed in 4.524324893951416
+2022-07-11 18:27:18,024 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mrozy/
+2022-07-11 18:27:18,314 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:27:18,316 :: INFO :: __main__ :: executed in 5.343937158584595
+2022-07-11 18:27:22,824 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/sulejowek/
+2022-07-11 18:27:23,020 :: INFO :: sel_source :: found data: [7, 8, 0]
+2022-07-11 18:27:23,035 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:23,035 :: INFO :: __main__ :: executed in 4.719196557998657
+2022-07-11 18:27:28,284 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/mlawa/
+2022-07-11 18:27:28,514 :: INFO :: sel_source :: found data: [49, 43, 0]
+2022-07-11 18:27:28,522 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:28,522 :: INFO :: __main__ :: executed in 5.487305402755737
+2022-07-11 18:27:33,371 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nowy-dwor-mazowiecki/
+2022-07-11 18:27:33,664 :: INFO :: sel_source :: found data: [16, 63, 1]
+2022-07-11 18:27:33,676 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:33,676 :: INFO :: __main__ :: executed in 5.153230667114258
+2022-07-11 18:27:38,226 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/nasielsk/
+2022-07-11 18:27:38,566 :: INFO :: sel_source :: found data: [4, 3, 0]
+2022-07-11 18:27:38,577 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:38,577 :: INFO :: __main__ :: executed in 4.901776075363159
+2022-07-11 18:27:43,037 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/zakroczym/
+2022-07-11 18:27:43,330 :: INFO :: sel_source :: found data: [2, 1, 0]
+2022-07-11 18:27:43,340 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:43,341 :: INFO :: __main__ :: executed in 4.763018608093262
+2022-07-11 18:27:47,898 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/myszyniec/
+2022-07-11 18:27:48,139 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:27:48,150 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:48,150 :: INFO :: __main__ :: executed in 4.809685945510864
+2022-07-11 18:27:53,135 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/ostrow-mazowiecka/
+2022-07-11 18:27:53,453 :: INFO :: sel_source :: found data: [13, 2, 0]
+2022-07-11 18:27:53,467 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:53,467 :: INFO :: __main__ :: executed in 5.316835641860962
+2022-07-11 18:27:57,712 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/brok/
+2022-07-11 18:27:57,892 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:27:57,903 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:27:57,903 :: INFO :: __main__ :: executed in 4.436082124710083
+2022-07-11 18:28:02,273 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/jozefow/
+2022-07-11 18:28:02,539 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:28:02,549 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:02,549 :: INFO :: __main__ :: executed in 4.646148681640625
+2022-07-11 18:28:07,772 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/otwock/
+2022-07-11 18:28:08,036 :: INFO :: sel_source :: found data: [23, 26, 0]
+2022-07-11 18:28:08,050 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:08,050 :: INFO :: __main__ :: executed in 5.500451564788818
+2022-07-11 18:28:12,614 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/karczew/
+2022-07-11 18:28:12,920 :: INFO :: sel_source :: found data: [3, 6, 0]
+2022-07-11 18:28:12,932 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:12,932 :: INFO :: __main__ :: executed in 4.8818519115448
+2022-07-11 18:28:17,976 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gora-kalwaria/
+2022-07-11 18:28:18,180 :: INFO :: sel_source :: found data: [7, 13, 0]
+2022-07-11 18:28:18,192 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:18,192 :: INFO :: __main__ :: executed in 5.2601118087768555
+2022-07-11 18:28:23,202 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/konstancin-jeziorna/
+2022-07-11 18:28:23,519 :: INFO :: sel_source :: found data: [5, 17, 0]
+2022-07-11 18:28:23,531 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:23,531 :: INFO :: __main__ :: executed in 5.339310884475708
+2022-07-11 18:28:28,020 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/piaseczno/
+2022-07-11 18:28:28,308 :: INFO :: sel_source :: found data: [42, 113, 0]
+2022-07-11 18:28:28,320 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:28,320 :: INFO :: __main__ :: executed in 4.7882091999053955
+2022-07-11 18:28:33,085 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/tarczyn/
+2022-07-11 18:28:33,396 :: INFO :: sel_source :: found data: [0, 0, 0]
+2022-07-11 18:28:33,408 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:33,408 :: INFO :: __main__ :: executed in 5.088083982467651
+2022-07-11 18:28:37,951 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/drobin/
+2022-07-11 18:28:38,133 :: INFO :: sel_source :: found data: [0, 1, 0]
+2022-07-11 18:28:38,146 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:38,147 :: INFO :: __main__ :: executed in 4.738767147064209
+2022-07-11 18:28:42,880 :: INFO :: sel_source :: getting URL = https://www.olx.pl/d/nieruchomosci/mieszkania/gabin/
+2022-07-11 18:28:43,171 :: INFO :: sel_source :: found data: [1, 3, 0]
+2022-07-11 18:28:43,182 :: INFO :: db_con :: SQL query run successfully
+2022-07-11 18:28:43,182 :: INFO :: __main__ :: executed in 5.035814523696899
