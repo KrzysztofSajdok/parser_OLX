@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import logging
+import time
 
 logger = logging.getLogger(__name__)
 logging.FileHandler('logfile.log')
@@ -21,11 +22,14 @@ class SelRequest:
         self.source = ''
 
     def get_source(self):
+        start = time.time()
         self.driver.get(self.url)
         logger.info(f'getting URL = {self.url}')
         self.driver.execute_script("return document.body.innerHTML")
         self.source = self.driver.page_source
         self.driver.close()
+        end = time.time()
+        logger.info(f'source obtained in {end-start}')
         return self.source
 
     def get_olx_stats(self):
