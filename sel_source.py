@@ -6,7 +6,7 @@ import time
 
 logger = logging.getLogger(__name__)
 logging.FileHandler('logfile.log')
-logging.basicConfig(filename='logfile.log', filemode='a', level=logging.INFO,
+logging.basicConfig(filename='logfile.log', filemode='w', level=logging.INFO,
                     format='%(asctime)s :: %(levelname)s :: %(name)s :: %(message)s')
 
 
