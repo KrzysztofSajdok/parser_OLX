@@ -4,15 +4,7 @@ from db_con import DbConnect
 from sel_source import SelRequest
 import logging
 import time
-import csv
 from datetime import date
-
-
-def removeaccents(input_text):
-    strange = 'ĄĆĘÓŁŚŻŹŃąćęółśżźń'
-    ascii_replacements = 'ACEOLSZZNaceolszzn'
-    translator = str.maketrans(strange, ascii_replacements)
-    return input_text.translate(translator)
 
 
 logger = logging.getLogger(__name__)
@@ -21,32 +13,40 @@ logging.basicConfig(filename='logfile.log', filemode='w', level=logging.INFO,
                     format='%(asctime)s :: %(levelname)s :: %(name)s :: %(message)s')
 
 
-con = DbConnect("olx_data.db")
+con = DbConnect("sync/olx_data.db")
 con.get_connection()
 
-cities = con.get_data("""select city_id, name, is_dubble 
-                        from custom where city_id not in 
-                        (select city_id from olx_data 
-                        where date = date('now'));""")
+cities = con.get_data("""select c.city_id, c.name, c.is_dubble
+                        from custom c left join
+                        (select city_id from olx_data where date = date('now')) o
+                        on o.city_id=c.city_id where o.city_id is null;""")
+
+# double, cities_custom
 
 url_base = 'https://www.olx.pl/d/nieruchomosci/mieszkania/'
-cities_list = [(url_base + removeaccents(i[1]).lower().replace(" ", "-") + i[2] + '/', i[0]) for i in cities]
+cities_list = [(url_base + con.remove_accents(i[1]).lower().replace(" ", "-") + i[2] + '/', i[0]) for i in cities]
 
+drive = SelRequest()
 
 for i in cities_list:
     start = time.time()
     curTime = date.today()
-    row = SelRequest(i[0]).get_olx_stats()
-    row.append(i[1])
-    row.append(curTime)
-    record = """
+    print(i[0])
+    source = drive.get_source(i[0])
+    values = drive.get_olx_stats(source)
+    values.append(i[1])
+    values.append(curTime)
+    end = time.time()
+    if end-start < 2:
+        print("Too quick, something is wrong with: ", i[0], '-- id:', i[1])
+        pass
+    query = """
                 INSERT INTO
                     olx_data(adv_rent_count, adv_sale_count, adv_exchange_count, city_id, date)
                 VALUES
                     (?, ?, ?, ?, ?); """
-    con.run_query(record, row)
-    end = time.time()
-    logger.info(f'executed in {end-start}')
+    con.insert_data(query, values)
+    logger.info(f'loop executed in {end-start}')
 
 
 # with open('first.csv', 'rb') as inp, open('first_edit.csv', 'wb') as out:
@@ -83,4 +83,4 @@ for i in cities_list:
 # select c.city_id, c.name, c.is_dubble
 #                         from custom c left join
 #                         (select city_id from olx_data where date = date('now')) o
-#                         on o.city_id=c.city_id;
+#                         on o.city_id=c.city_id where o.city_id is null;

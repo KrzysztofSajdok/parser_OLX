@@ -18,45 +18,58 @@ class DbConnect:
     def get_connection(self):
         try:
             self.connection = sqlite3.connect(self.db_path)
+            print("Database connected successfully.")
             logger.info("database connected successfully")
         except Error as e:
             logger.critical(f"error: {e}")
             # print(f"An Error has occurred: {e}")
         # return connection
 
-    def run_query(self, sql_query, row):
+    def insert_data(self, sql_query, values): # insert
         cursor = self.connection.cursor()
         try:
-            cursor.execute(sql_query, row)
+            cursor.execute(sql_query, values)
             self.connection.commit()
             logger.debug(sql_query)
-            logger.debug(row)
-            logger.info("SQL query run successfully")
+            logger.debug(values)
+            logger.info("SQL query run successfully in ... s") #dodać czas
         except Error as e:
             print(f" Query Failed……{e}")
 
+    def remove_accents(self, input_text):
+        strange = 'ĄĆĘÓŁŚŻŹŃąćęółśżźń'
+        ascii_replacements = 'ACEOLSZZNaceolszzn'
+        translator = str.maketrans(strange, ascii_replacements)
+        return input_text.translate(translator)
+
     def get_data(self, query):
-        col = []
+        records = []
         cursor = self.connection.cursor()
         cursor.execute(query)
+        # exception
         rows = cursor.fetchall()
         for row in rows:
-            col.append(row)
-        return col
+            records.append(row)
+        return records
 
-    def get_notready(self):
-        col = []
-        cursor = self.connection.cursor()
-        cursor.execute("""SELECT
-                            name, city_id FROM cities 
-                            WHERE city_id NOT IN 
-                            (SELECT city_id FROM olx_data 
-                            WHERE date=date('now'));            
-                        """)
-        rows = cursor.fetchall()
-        for row in rows:
-            col.append(row)
-        return col
+
+
+
+
+
+# def get_notready(self):
+#     col = []
+#     cursor = self.connection.cursor()
+#     cursor.execute("""SELECT
+#                         name, city_id FROM cities
+#                         WHERE city_id NOT IN
+#                         (SELECT city_id FROM olx_data
+#                         WHERE date=date('now'));
+#                     """)
+#     rows = cursor.fetchall()
+#     for row in rows:
+#         col.append(row)
+#     return col
 
 
 # con = DbConnect("/home/krzychu/PycharmProjects/OLX_selenium/test_table.db")
