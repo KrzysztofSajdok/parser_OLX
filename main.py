@@ -16,8 +16,8 @@ logging.basicConfig(filename='logfile.log', filemode='w', level=logging.INFO,
 con = DbConnect("sync/olx_data.db")
 con.get_connection()
 
-cities = con.get_data("""select c.city_id, c.name, c.is_dubble
-                        from custom c left join
+cities = con.get_data("""select c.city_id, c.name, c.is_duplicate
+                        from cities_custom c left join
                         (select city_id from olx_data where date = date('now')) o
                         on o.city_id=c.city_id where o.city_id is null;""")
 
