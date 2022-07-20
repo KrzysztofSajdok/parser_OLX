@@ -43,8 +43,8 @@ class SelRequest:
     def get_olx_stats(self, source):
         soup = BeautifulSoup(source, "html.parser")
         span = soup.find_all('a', {'class': 'css-pyvavn'})
-        for i in span:
-            print(i.contents)
+        # for i in span:
+        #    print(i.contents)
         # this is how span looks like:
         # [<a class="css-pyvavn" href="/d/nieruchomosci/mieszkania/wynajem/boleslawiec">Wynajem<span class="css-wz88">15</span></a>,
         # <a class="css-pyvavn" href="/d/nieruchomosci/mieszkania/sprzedaz/boleslawiec">Sprzedaż<span class="css - wz88">35</span></a>,
@@ -72,7 +72,7 @@ class SelRequest:
             except ValueError:
                 stat.append(int(value.replace(u'\xa0', u'')))
         logger.info(f'found data: {stat}')
-        print(stat)
+        # print(stat)
         return stat
 
 

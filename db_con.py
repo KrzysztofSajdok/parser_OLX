@@ -1,7 +1,7 @@
 import sqlite3
 from sqlite3 import Error
 import logging
-
+import time
 
 logger = logging.getLogger(__name__)
 logging.FileHandler('logfile.log')
@@ -28,11 +28,13 @@ class DbConnect:
     def insert_data(self, sql_query, values): # insert
         cursor = self.connection.cursor()
         try:
+            start = time.time()
             cursor.execute(sql_query, values)
             self.connection.commit()
+            end = time.time()
             logger.debug(sql_query)
             logger.debug(values)
-            logger.info("SQL query run successfully in ... s") #dodać czas
+            logger.info(f"SQL query run successfully in {end-start} s")
         except Error as e:
             print(f" Query Failed……{e}")
 
